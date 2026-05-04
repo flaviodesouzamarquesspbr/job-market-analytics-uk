@@ -1,0 +1,951 @@
+title,company_name,location_name,category_name,salary_min,salary_max,salary_avg,contract_type,contract_time,currency
+Roadside Rescue Mechanic,RAC,"Oxford Circus, Central London",Engineering Jobs,0.0,66000.0,33000.0,Unknown,full_time,GBP
+Roadside Technician - Bromley,RAC,"Brompton, Gillingham",Engineering Jobs,0.0,66000.0,33000.0,Unknown,full_time,GBP
+Mobile Vehicle Technician - Luton,RAC,"Harpenden, Hertfordshire",Engineering Jobs,0.0,57000.0,28500.0,Unknown,full_time,GBP
+Customer Service Advisor,EE,"Great Usworth, Washington",Social work Jobs,25087.0,25087.0,25087.0,permanent,full_time,GBP
+Mobile Mechanic,RAC,"Chadbury, Evesham",Engineering Jobs,25087.0,52000.0,38543.5,Unknown,full_time,GBP
+Roadside Vehicle Technician,RAC,"Selhurst, South East London",Engineering Jobs,25087.0,66000.0,45543.5,Unknown,full_time,GBP
+Delivery Driver,Evri,"Altens, Aberdeen",Logistics & Warehouse Jobs,38643.83,38643.83,38643.83,Unknown,Unknown,GBP
+Roadside Technician - Swindon,RAC,"Rodbourne Cheney, Swindon",Engineering Jobs,38643.83,61000.0,49821.915,Unknown,full_time,GBP
+Psychologist,Witherslack Group,"Fulwood, Preston",Healthcare & Nursing Jobs,60280.01,60280.01,60280.01,Unknown,part_time,GBP
+Roadside Mechanic,RAC,"Riverhead, Sevenoaks",Engineering Jobs,60280.01,66000.0,63140.005000000005,Unknown,full_time,GBP
+Roadside Rescue Mechanic,RAC,"Selhurst, South East London",Engineering Jobs,60280.01,66000.0,63140.005000000005,Unknown,full_time,GBP
+Mobile Vehicle Technician - North West,RAC,"Malkins Bank, Sandbach",Engineering Jobs,60280.01,52000.0,56140.005000000005,Unknown,full_time,GBP
+Mobile Vehicle Technician - Barnsley/Doncaster,RAC,"Kirkhamgate, Wakefield",Engineering Jobs,60280.01,52000.0,56140.005000000005,Unknown,full_time,GBP
+Mobile Mechanic,RAC,"Wilstone Green, Tring",Engineering Jobs,60280.01,52000.0,56140.005000000005,Unknown,full_time,GBP
+Mobile Vehicle Technician,RAC,"Oaklands, St. Albans",Engineering Jobs,60280.01,57000.0,58640.005000000005,Unknown,full_time,GBP
+Customer Service Advisor - Belfast,EE,"Hillhall, Lisburn",Healthcare & Nursing Jobs,25087.0,25087.0,25087.0,Unknown,Unknown,GBP
+Mobile Vehicle Technician - Watford,RAC,"Denner Hill, Great Missenden",Engineering Jobs,25087.0,57000.0,41043.5,Unknown,full_time,GBP
+Sales Advisor - Uncapped Commission,EE,"West Harlsey, Northallerton",Sales Jobs,25087.0,25087.0,25087.0,permanent,full_time,GBP
+Sales Agent - Uncapped Commission,EE,"Hurworth, Darlington",Sales Jobs,25087.0,25087.0,25087.0,permanent,full_time,GBP
+Sales Advisor - Uncapped Commission,EE,"Pelaw, Gateshead",Sales Jobs,25087.0,25087.0,25087.0,permanent,full_time,GBP
+Mobile Vehicle Technician - Coventry,RAC,"Hilderstone, Stone",Engineering Jobs,25087.0,52000.0,38543.5,Unknown,full_time,GBP
+Roadside Technician - Cheltenham,RAC,"Charlton Kings, Cheltenham",Engineering Jobs,25087.0,61000.0,43043.5,Unknown,full_time,GBP
+HGV Driver,Ocado Logistics,"South Ockendon, Essex",Logistics & Warehouse Jobs,18.0,18.0,18.0,contract,full_time,GBP
+Mobile Vehicle Technician - Norwich,RAC,"Suton, Wymondham",Engineering Jobs,18.0,52000.0,26009.0,Unknown,full_time,GBP
+Team Leader - Children's Homes,Witherslack Group,"Heighington, Darlington",Social work Jobs,38644.68,38644.68,38644.68,Unknown,full_time,GBP
+Mobile Vehicle Technician - Bournemouth,RAC,"Branksome, Poole",Engineering Jobs,38644.68,52000.0,45322.34,Unknown,full_time,GBP
+Sales Advisor - Uncapped Commission,EE,"Spital Tongues, Newcastle Upon Tyne",Sales Jobs,25087.0,25087.0,25087.0,permanent,full_time,GBP
+Roadside Mechanic,RAC,"Holcot, Northampton",Engineering Jobs,25087.0,61000.0,43043.5,Unknown,full_time,GBP
+Mobile Vehicle Technician,RAC,"Letchworth Garden City, Hertfordshire",Engineering Jobs,25087.0,52000.0,38543.5,Unknown,full_time,GBP
+Mobile Mechanic,RAC,"Snarehill, Thetford",Engineering Jobs,25087.0,52000.0,38543.5,Unknown,full_time,GBP
+Mobile Mechanic,RAC,"Charlton Kings, Cheltenham",Engineering Jobs,25087.0,52000.0,38543.5,Unknown,full_time,GBP
+Roadside Vehicle Technician,RAC,"Arlingham, Gloucester",Engineering Jobs,25087.0,61000.0,43043.5,Unknown,full_time,GBP
+Roadside Technician - Swindon,RAC,"Sandshill, Faringdon",Engineering Jobs,25087.0,61000.0,43043.5,Unknown,full_time,GBP
+Mobile Mechanic,RAC,"Shaldon, Teignmouth",Engineering Jobs,25087.0,52000.0,38543.5,Unknown,full_time,GBP
+Roadside Vehicle Mechanic,RAC,"Brooklands, Sale",Engineering Jobs,25087.0,61000.0,43043.5,Unknown,full_time,GBP
+Roadside Technician - Heathrow,RAC,"Brentford, West London",Engineering Jobs,25087.0,66000.0,45543.5,Unknown,full_time,GBP
+Delivery Driver,Evri,"Thames View Industrial Park, Abingdon",Logistics & Warehouse Jobs,37781.02,37781.02,37781.02,Unknown,Unknown,GBP
+Mobile Vehicle Technician,RAC,"Wymington, Rushden",Engineering Jobs,37781.02,52000.0,44890.509999999995,Unknown,full_time,GBP
+Mobile Vehicle Technician,RAC,"Northchurch, Berkhamsted",Engineering Jobs,37781.02,57000.0,47390.509999999995,Unknown,full_time,GBP
+Mobile Mechanic,RAC,"Chalvey, Slough",Engineering Jobs,37781.02,52000.0,44890.509999999995,Unknown,full_time,GBP
+Roadside Vehicle Technician,RAC,"Styal, Wilmslow",Engineering Jobs,37781.02,61000.0,49390.509999999995,Unknown,full_time,GBP
+Mobile Vehicle Technician - Watford,RAC,"Edgware, North West London",Engineering Jobs,37781.02,57000.0,47390.509999999995,Unknown,full_time,GBP
+Delivery Driver,Evri,"Barrowby, Grantham",Logistics & Warehouse Jobs,40616.93,40616.93,40616.93,Unknown,Unknown,GBP
+Pharmacy Manager,Ramsay Health Care,"Great Hallingbury, Bishop's Stortford",Healthcare & Nursing Jobs,47456.85,47456.85,47456.85,Unknown,full_time,GBP
+Mobile Vehicle Technician,RAC,"Caldewgate, Carlisle",Engineering Jobs,47456.85,52000.0,49728.425,Unknown,full_time,GBP
+Roadside Mechanic,RAC,"Newland, Malvern",Engineering Jobs,47456.85,61000.0,54228.425,Unknown,full_time,GBP
+Mobile Vehicle Technician,RAC,"Delapre, Northampton",Engineering Jobs,47456.85,52000.0,49728.425,Unknown,full_time,GBP
+Superflex Roadside Technician,RAC,"Harlington, Hayes",Engineering Jobs,47456.85,61000.0,54228.425,Unknown,full_time,GBP
+Design & Technology Teacher,Witherslack Group,"Hildenborough, Tonbridge",Teaching Jobs,43018.72,43018.72,43018.72,Unknown,full_time,GBP
+Roadside Vehicle Technician,RAC,"Heyrod, Stalybridge",Engineering Jobs,43018.72,61000.0,52009.36,Unknown,full_time,GBP
+Mobile Vehicle Technician,RAC,"Worle, Weston-Super-Mare",Engineering Jobs,43018.72,52000.0,47509.36,Unknown,full_time,GBP
+Mobile Vehicle Technician - Horsham,RAC,"Horsham, West Sussex",Engineering Jobs,43018.72,52000.0,47509.36,Unknown,full_time,GBP
+Mobile Mechanic,RAC,"Elstow, Bedford",Engineering Jobs,43018.72,52000.0,47509.36,Unknown,full_time,GBP
+Mobile Vehicle Technician,RAC,"Denner Hill, Great Missenden",Engineering Jobs,43018.72,57000.0,50009.36,Unknown,full_time,GBP
+Part-Time SEN Primary Teacher,Witherslack Group,"Mitcham Junction, Mitcham",Part time Jobs,37483.33,37483.33,37483.33,Unknown,part_time,GBP
+Roadside Rescue Mechanic,RAC,"Brompton, Gillingham",Engineering Jobs,37483.33,66000.0,51741.665,Unknown,full_time,GBP
+Roadside Vehicle Mechanic,RAC,"Sandshill, Faringdon",Engineering Jobs,37483.33,61000.0,49241.665,Unknown,full_time,GBP
+Mobile Vehicle Technician,RAC,"West Parley, Ferndown",Engineering Jobs,37483.33,52000.0,44741.665,Unknown,full_time,GBP
+Sales Advisor - Uncapped Commission,EE,"Hendon, Sunderland",Sales Jobs,25087.0,25087.0,25087.0,permanent,full_time,GBP
+Roadside Rescue Mechanic,RAC,"Cadley, Marlborough",Engineering Jobs,25087.0,61000.0,43043.5,Unknown,full_time,GBP
+Mobile Mechanic,RAC,"Grove, Leighton Buzzard",Engineering Jobs,25087.0,57000.0,41043.5,Unknown,full_time,GBP
+Mobile Vehicle Technician - Barnsley/Doncaster,RAC,"Catcliffe, Rotherham",Engineering Jobs,25087.0,52000.0,38543.5,Unknown,full_time,GBP
+Roadside Vehicle Technician,RAC,"Southmead, Bristol",Engineering Jobs,25087.0,61000.0,43043.5,Unknown,full_time,GBP
+Mobile Vehicle Technician - Hemel Hempstead,RAC,"Wilstone Green, Tring",Engineering Jobs,25087.0,57000.0,41043.5,Unknown,full_time,GBP
+NTP Teacher,Targeted Provision Ltd,"Belgrave, Leicester",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+MLD Teacher,Targeted Provision Ltd,"Chequers Centre, Maidstone",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+Mobile Vehicle Technician - Warrington,RAC,UK,Engineering Jobs,58240.0,52000.0,55120.0,Unknown,full_time,GBP
+Market Research Interviewer - Car Required - Part Time,Ipsos,"Monktonhall, Musselburgh",Part time Jobs,14.0,14.0,14.0,Unknown,part_time,GBP
+Market Research Interviewer - Car Required - Part Time,Ipsos,"South Ayrshire, Scotland",Part time Jobs,14.0,14.0,14.0,Unknown,part_time,GBP
+Roadside Technician - Bromley,RAC,"St. Mary Cray, Orpington",Engineering Jobs,14.0,66000.0,33007.0,Unknown,full_time,GBP
+Mobile Vehicle Technician - South West,RAC,"Cheltenham Trade Park, Cheltenham",Engineering Jobs,14.0,52000.0,26007.0,Unknown,full_time,GBP
+Roadside Technician - Milton Keynes,RAC,"Holcot, Northampton",Engineering Jobs,14.0,61000.0,30507.0,Unknown,full_time,GBP
+Retail Manager,KFC UK,"Hilsea, Portsmouth",Retail Jobs,38000.0,42000.0,40000.0,Unknown,full_time,GBP
+Roadside Technician,RAC,"Hanworth, Feltham",Engineering Jobs,38000.0,66000.0,52000.0,Unknown,full_time,GBP
+Roadside Rescue Mechanic,RAC,"Kingston, Milton Keynes",Engineering Jobs,38000.0,61000.0,49500.0,Unknown,full_time,GBP
+Mobile Vehicle Technician - Bridgwater,RAC,"Stanley, Chippenham",Engineering Jobs,38000.0,52000.0,45000.0,Unknown,full_time,GBP
+Catering Apprentice Level 2,Busy Bees,"Bitteswell, Lutterworth",Hospitality & Catering Jobs,22880.0,22880.0,22880.0,Unknown,Unknown,GBP
+NTP Teacher,Targeted Provision Ltd,"Frieze Hill, Taunton",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+Market Research Interviewer - Car Required - Part Time,Ipsos,"Ardrossan, North Ayrshire",Part time Jobs,14.0,14.0,14.0,Unknown,part_time,GBP
+Mobile Mechanic,RAC,"Northwood, North West London",Engineering Jobs,14.0,57000.0,28507.0,Unknown,full_time,GBP
+Ex-NTP Teacher,Targeted Provision Ltd,"Holbeck, Leeds",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+Senior Staff Nurse - Wards,Ramsay Health Care,"Old Town, Stratford-Upon-Avon",Healthcare & Nursing Jobs,43790.32,43790.32,43790.32,Unknown,full_time,GBP
+Gopuff Delivery Drivers or Riders - Work when you want!,Gopuff,"Whitehall, Bristol",Travel Jobs,34762.29,34762.29,34762.29,Unknown,Unknown,GBP
+Mobile Vehicle Technician - Barnsley/Doncaster,RAC,"Sandtoft, Doncaster",Engineering Jobs,34762.29,52000.0,43381.145000000004,Unknown,full_time,GBP
+Special Education Needs Teacher,Targeted Provision Ltd,"Ladywood, Birmingham",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+Delivery Driver - Bristol,Ocado Logistics,"Bristol, South West England",Logistics & Warehouse Jobs,29.0,29.0,29.0,permanent,full_time,GBP
+Mobile Vehicle Technician,RAC,"Pytchley, Kettering",Engineering Jobs,29.0,52000.0,26014.5,Unknown,full_time,GBP
+Market Research Interviewer - Car Required - Part Time,Ipsos,"Falkirk, Falkirk County",Part time Jobs,14.0,14.0,14.0,Unknown,part_time,GBP
+Mobile Vehicle Technician - Stevenage,RAC,"Leavesden, Watford",Engineering Jobs,14.0,52000.0,26007.0,Unknown,full_time,GBP
+Mobile Vehicle Technician,RAC,"Trigon, Wareham",Engineering Jobs,14.0,52000.0,26007.0,Unknown,full_time,GBP
+Roadside Vehicle Mechanic,RAC,"Charlton Kings, Cheltenham",Engineering Jobs,14.0,61000.0,30507.0,Unknown,full_time,GBP
+Roadside Rescue Mechanic,RAC,"Holcot, Northampton",Engineering Jobs,14.0,61000.0,30507.0,Unknown,full_time,GBP
+Special Education Needs Teacher,Targeted Provision Ltd,"Canwick, Lincoln",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+"SEN / SEND Tutor, Nottinghamshire",Targeted Provision Ltd,"Sutton-In-Ashfield, Nottinghamshire",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+"SEN / SEND Tutor, Isle of Wight",Targeted Provision Ltd,"Oakfield, Ryde",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+Senior Children's Residential Support Worker,Witherslack Group,"Egglescliffe, Stockton-On-Tees",Social work Jobs,33351.21,33351.21,33351.21,Unknown,full_time,GBP
+Roadside Mechanic,RAC,"Holcot, Northampton",Engineering Jobs,33351.21,61000.0,47175.604999999996,Unknown,full_time,GBP
+Roadside Rescue Mechanic,RAC,"Harlington, Hayes",Engineering Jobs,33351.21,66000.0,49675.604999999996,Unknown,full_time,GBP
+Cycle Technician,Halfords,"Moorgate, Lancaster",Retail Jobs,21632.0,26228.0,23930.0,Unknown,part_time,GBP
+Customer Service Representative - Uncapped Commission,EE,"Spital Tongues, Newcastle Upon Tyne",Sales Jobs,13379.0,13379.0,13379.0,Unknown,part_time,GBP
+Mobile Vehicle Technician - Luton,RAC,"Woodside, Luton",Engineering Jobs,13379.0,57000.0,35189.5,Unknown,full_time,GBP
+Mobile Mechanic,RAC,"Pirton, Worcestershire",Engineering Jobs,13379.0,52000.0,32689.5,Unknown,full_time,GBP
+Roadside Vehicle Technician,RAC,"White City, West London",Engineering Jobs,13379.0,66000.0,39689.5,Unknown,full_time,GBP
+Mobile Vehicle Technician - Aylesbury,RAC,"Dallinghoo, Woodbridge",Engineering Jobs,13379.0,52000.0,32689.5,Unknown,full_time,GBP
+Gopuff Delivery Drivers or Riders - Flexible Schedule,Gopuff,"Wandsworth, South West London",Travel Jobs,45384.25,45384.25,45384.25,Unknown,Unknown,GBP
+Delivery Driver - Knowsley,Ocado Logistics,"Woolston, Warrington",Logistics & Warehouse Jobs,12.0,12.0,12.0,permanent,full_time,GBP
+Mobile Vehicle Technician - Esher,RAC,"Whiteley Village, Hersham",Engineering Jobs,12.0,57000.0,28506.0,Unknown,full_time,GBP
+NTP Teacher,Targeted Provision Ltd,"Moorgate, Lancaster",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+Mobile Mechanic,RAC,"Onslow Village, Guildford",Engineering Jobs,58240.0,57000.0,57620.0,Unknown,full_time,GBP
+Vehicle Technician / MOT Tester,Halfords,"Manchester Science Park, Manchester",Engineering Jobs,31827.0,35000.0,33413.5,Unknown,full_time,GBP
+Sales Associate - Uncapped Commission,EE,"Maritime Quarter, Swansea",Sales Jobs,25087.0,25087.0,25087.0,permanent,full_time,GBP
+Gopuff Delivery Drivers or Riders,Gopuff,"Llandaff, Cardiff",Travel Jobs,34435.07,34435.07,34435.07,Unknown,Unknown,GBP
+Delivery Driver,Evri,"Barrowby, Grantham",Logistics & Warehouse Jobs,40616.93,40616.93,40616.93,Unknown,Unknown,GBP
+Roadside Mechanic,RAC,"Selhurst, South East London",Engineering Jobs,40616.93,66000.0,53308.465,Unknown,full_time,GBP
+Psychologist,Witherslack Group,"Willington, Crook",Healthcare & Nursing Jobs,47924.26,47924.26,47924.26,Unknown,full_time,GBP
+Mobile Vehicle Technician,RAC,"Ash Vale, Aldershot",Engineering Jobs,47924.26,52000.0,49962.130000000005,Unknown,full_time,GBP
+Vehicle Technician / MOT Tester,Halfords,"Hilsea, Portsmouth",Engineering Jobs,31827.0,35000.0,33413.5,Unknown,full_time,GBP
+Class 1 Night Driver,Gregory,"Stoneyford, Cullompton",Logistics & Warehouse Jobs,38000.0,39000.0,38500.0,permanent,full_time,GBP
+Higher Level Teaching Assistant,Witherslack Group,"Wakefield, West Yorkshire",Teaching Jobs,31229.19,31229.19,31229.19,Unknown,full_time,GBP
+Mobile Vehicle Technician - South East,RAC,"Ash Vale, Aldershot",Engineering Jobs,31229.19,52000.0,41614.595,Unknown,full_time,GBP
+Mobile Mechanic,RAC,"Branksome, Poole",Engineering Jobs,31229.19,52000.0,41614.595,Unknown,full_time,GBP
+Roadside Technician - Oxford,RAC,"Oxford, Oxfordshire",Engineering Jobs,31229.19,61000.0,46114.595,Unknown,full_time,GBP
+Customer Service Specialist - N'Ards Natwest,Teleperformance,"Groomsport, Bangor",Customer Services Jobs,32606.48,32606.48,32606.48,permanent,full_time,GBP
+Mobile Vehicle Technician,RAC,"Hamp Bridge, Bridgwater",Engineering Jobs,32606.48,52000.0,42303.24,Unknown,full_time,GBP
+3.5T Delivery & Install Driver,Currys,"Englefield, Reading",Logistics & Warehouse Jobs,29059.0,29059.0,29059.0,permanent,full_time,GBP
+Roadside Technician,RAC,"Reddish, Stockport",Engineering Jobs,29059.0,61000.0,45029.5,Unknown,full_time,GBP
+Warehouse Operative - Purfleet,Ocado Logistics,"Hadleigh, Benfleet",Logistics & Warehouse Jobs,12.0,12.0,12.0,Unknown,full_time,GBP
+Special Education Needs Tutor,Targeted Provision Ltd,"Barton, Newport",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+Market Research Interviewer - Car Required - Part Time,Ipsos,"Lawthorn, Irvine",Part time Jobs,14.0,14.0,14.0,Unknown,part_time,GBP
+Scrub Nurse/ODP,Ramsay Health Care,"Carclaze, St. Austell",Healthcare & Nursing Jobs,38665.58,38665.58,38665.58,Unknown,full_time,GBP
+Intervention Tutor,Targeted Provision Ltd,"Nevilles Cross, Durham",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+Customer Service Advisor,Teleperformance,UK,Customer Services Jobs,30324.54,30324.54,30324.54,permanent,full_time,GBP
+Customer Service Advisor - Natwest/Ulsterbank Belfast,Teleperformance,UK,Customer Services Jobs,30971.6,30971.6,30971.6,permanent,full_time,GBP
+Primary Teaching Assistant,Witherslack Group,"The City, Central London",Teaching Jobs,32000.12,32000.12,32000.12,Unknown,full_time,GBP
+MOT Tester,Halfords,"St. James, Bristol",Engineering Jobs,31827.0,35000.0,33413.5,Unknown,full_time,GBP
+Intervention Tutor,Targeted Provision Ltd,"Barton, Newport",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+"SEN / SEND Tutor, Northumberland",Targeted Provision Ltd,"West Fleetham, Chathill",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+Roadside Technician - Swindon,RAC,"Rodbourne Cheney, Swindon",Engineering Jobs,58240.0,61000.0,59620.0,Unknown,full_time,GBP
+Class 1 Bulker Driver,Gregory,"Craibstone, Bucksburn",Logistics & Warehouse Jobs,58240.0,37369.0,47804.5,permanent,full_time,GBP
+Retail Assistant,Co-op,"Bala, Gwynedd",Retail Jobs,12.0,12.0,12.0,permanent,part_time,GBP
+Pharmacy Manager,Ramsay Health Care,"Wormley, Broxbourne",Healthcare & Nursing Jobs,48054.19,48054.19,48054.19,Unknown,full_time,GBP
+Superflex Roadside Patrol,RAC,"Harlington, Hayes",Engineering Jobs,48054.19,61000.0,54527.095,Unknown,full_time,GBP
+Vehicle Technician / MOT Tester,Halfords,"Hasland, Chesterfield",Engineering Jobs,31827.0,35000.0,33413.5,Unknown,full_time,GBP
+Part Time Sales Advisor - Uncapped Commission,EE,"Chirton, North Shields",Part time Jobs,13379.0,13379.0,13379.0,Unknown,part_time,GBP
+"SEN / SEND Tutor, Somerset / Bristol",Targeted Provision Ltd,"Ansford, Castle Cary",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+Mobile Vehicle Technician - Bridgwater,RAC,"Worle, Weston-Super-Mare",Engineering Jobs,58240.0,52000.0,55120.0,Unknown,full_time,GBP
+Commercial Tyre Technician - Swindon,Halfords,"West Leaze, Swindon",Engineering Jobs,40000.0,60000.0,50000.0,Unknown,full_time,GBP
+Pharmacist,Ramsay Health Care,"Trimms Green, Sawbridgeworth",Healthcare & Nursing Jobs,46884.56,46884.56,46884.56,contract,full_time,GBP
+Mobile Vehicle Technician - Aylesbury,RAC,"Grove, Leighton Buzzard",Engineering Jobs,46884.56,52000.0,49442.28,Unknown,full_time,GBP
+Vehicle Technician / MOT Tester,Halfords,"The Haugh, Elgin",Engineering Jobs,33000.0,38000.0,35500.0,Unknown,full_time,GBP
+"SEN / SEND Tutor, Isle of Wight",Targeted Provision Ltd,"Southsea, Hampshire",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+MLD Teacher,Targeted Provision Ltd,"Moorgate, Lancaster",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+Audit Senior,HAYS,"Milton Keynes, Buckinghamshire",Accounting & Finance Jobs,51138.06,51138.06,51138.06,Unknown,Unknown,GBP
+FP&A Manager (Renewable Energy),HAYS,"London, UK",Accounting & Finance Jobs,78237.01,78237.01,78237.01,Unknown,Unknown,GBP
+School Caretaker,Witherslack Group,UK,Teaching Jobs,24387.12,24387.12,24387.12,Unknown,full_time,GBP
+Design Manager,HAYS,"Edinburgh, Scotland",Trade & Construction Jobs,56194.33,56194.33,56194.33,Unknown,Unknown,GBP
+Corporate Transactions Tax SM,HAYS,"Glasgow, Scotland",Accounting & Finance Jobs,46834.14,46834.14,46834.14,Unknown,Unknown,GBP
+Class 1 Driver,Gregory,"Llandavenny, Magor",Logistics & Warehouse Jobs,35360.0,37440.0,36400.0,permanent,full_time,GBP
+Interim Compliance Manager,HAYS,"Gosport, Hampshire",Trade & Construction Jobs,76644.85,76644.85,76644.85,contract,Unknown,GBP
+Mobile Vehicle Technician,RAC,"Harpenden, Hertfordshire",Engineering Jobs,76644.85,57000.0,66822.425,Unknown,full_time,GBP
+Mobile Vehicle Technician,RAC,"Shaldon, Teignmouth",Engineering Jobs,76644.85,52000.0,64322.425,Unknown,full_time,GBP
+Mobile Vehicle Technician - Hemel Hempstead,RAC,"Harpenden, Hertfordshire",Engineering Jobs,76644.85,57000.0,66822.425,Unknown,full_time,GBP
+Staff Nurse - Wards Maternity Leave,Ramsay Health Care,"Tresillian, Newquay",Healthcare & Nursing Jobs,37478.07,37478.07,37478.07,contract,Unknown,GBP
+"SEN / SEND Tutor, Northumberland",Targeted Provision Ltd,"Denwick, Alnwick",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+Finance Manager,HAYS,"Stoke-On-Trent, Staffordshire",Accounting & Finance Jobs,57926.73,57926.73,57926.73,permanent,Unknown,GBP
+Part-Time Finance Officer,HAYS,"Northampton, Northamptonshire",Part time Jobs,27160.17,27160.17,27160.17,Unknown,part_time,GBP
+Payroll Specialist,HAYS,UK,Accounting & Finance Jobs,40882.71,40882.71,40882.71,contract,Unknown,GBP
+Roadside Mechanic,RAC,"Charlton Kings, Cheltenham",Engineering Jobs,40882.71,61000.0,50941.354999999996,Unknown,full_time,GBP
+Head of Finance,HAYS,"London, UK",Accounting & Finance Jobs,103898.07,103898.07,103898.07,Unknown,Unknown,GBP
+Market Research Interviewer – Car Required – Full Time,Ipsos,"Hull, East Riding Of Yorkshire",Sales Jobs,23000.0,23000.0,23000.0,Unknown,full_time,GBP
+Interim Finance Business Partner,HAYS,"Dorset, South West England",Accounting & Finance Jobs,70457.27,70457.27,70457.27,contract,Unknown,GBP
+Mobile Mechanic,RAC,"Cliburn, Penrith",Engineering Jobs,70457.27,52000.0,61228.635,Unknown,full_time,GBP
+Financial Accountant,HAYS,"London, UK",Accounting & Finance Jobs,52402.61,52402.61,52402.61,Unknown,Unknown,GBP
+Building Services Manager - Main Contractor,HAYS,"Glasgow, Scotland",Trade & Construction Jobs,51773.88,51773.88,51773.88,Unknown,Unknown,GBP
+Electrician,HAYS,"Nottingham, Nottinghamshire",Engineering Jobs,48328.01,48328.01,48328.01,contract,Unknown,GBP
+"SEN / SEND Tutor, Lancashire",Targeted Provision Ltd,"Heapey, Chorley",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+Amazon Flex Delivery Driver - Earn £14 - £18 per hour*,Amazon Flex,"Bucklebury, Reading",Logistics & Warehouse Jobs,14.0,18.0,16.0,Unknown,Unknown,GBP
+Sales Advisor - Uncapped Commission,EE,"Walkerville, Newcastle Upon Tyne",Sales Jobs,25087.0,25087.0,25087.0,permanent,full_time,GBP
+Bookkeeper,HAYS,"Belfast, Northern Ireland",Accounting & Finance Jobs,28611.92,28611.92,28611.92,Unknown,Unknown,GBP
+Skilled Despatch Operative,Samworth Brothers,"Melton Mowbray, Leicestershire",Retail Jobs,27550.0,27550.0,27550.0,permanent,Unknown,GBP
+Interim Management Accountant,HAYS,UK,Accounting & Finance Jobs,57310.59,57310.59,57310.59,contract,Unknown,GBP
+Vehicle Technician / MOT Tester,Halfords,"South Shields, Tyne & Wear",Engineering Jobs,33000.0,38000.0,35500.0,Unknown,full_time,GBP
+Mobile Vehicle Technician,RAC,"Leavesden, Watford",Engineering Jobs,33000.0,52000.0,42500.0,Unknown,full_time,GBP
+Corporate Tax Manager,HAYS,UK,Accounting & Finance Jobs,56726.85,56726.85,56726.85,Unknown,Unknown,GBP
+SEN Teacher,Targeted Provision Ltd,"Bensham, Gateshead",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+Special Education Needs Teacher,Targeted Provision Ltd,"Aylesbury, Buckinghamshire",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+Gopuff Delivery Drivers or Riders - Flexible Schedule,Gopuff,"Bow, East London",Travel Jobs,47537.34,47537.34,47537.34,Unknown,Unknown,GBP
+Market Research Interviewer - Car Required - Part Time,Ipsos,"Springboig, Glasgow",Part time Jobs,14.0,14.0,14.0,Unknown,part_time,GBP
+Interim Management Accountant,HAYS,"Taunton, Somerset",Accounting & Finance Jobs,54870.97,54870.97,54870.97,contract,Unknown,GBP
+Electrician - Social Housing - Doncaster,HAYS,"Doncaster, South Yorkshire",Trade & Construction Jobs,45442.41,45442.41,45442.41,contract,Unknown,GBP
+Mobile Vehicle Technician - Watford,RAC,"Wealdstone, Harrow",Engineering Jobs,45442.41,57000.0,51221.205,Unknown,full_time,GBP
+"SEN / SEND Tutor, West Yorkshire",Targeted Provision Ltd,"Dean Clough Industrial Park, Halifax",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+Amazon Flex Delivery Driver - Earn £14 - £18 per hour*,Amazon Flex,"Deepcut, Camberley",Logistics & Warehouse Jobs,14.0,18.0,16.0,Unknown,Unknown,GBP
+Service Manager (Young People Accommodation),HAYS,UK,Social work Jobs,38701.73,38701.73,38701.73,permanent,Unknown,GBP
+Senior Surveyor / Associate Director - Lease Advisory,HAYS,"Southampton, Hampshire",Trade & Construction Jobs,50968.09,50968.09,50968.09,Unknown,Unknown,GBP
+Business Services Manager,HAYS,"Glasgow, Scotland",Accounting & Finance Jobs,54403.22,54403.22,54403.22,Unknown,Unknown,GBP
+Special Education Needs Teacher,Targeted Provision Ltd,"St. Leonards, Exeter",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+4on 4off Class1 Lesmahagow,Gregory,"Burnfoot, Lesmahagow",Logistics & Warehouse Jobs,34320.0,40040.0,37180.0,permanent,full_time,GBP
+Expense Analyst | Temporary,HAYS,"London, UK",Accounting & Finance Jobs,51739.72,51739.72,51739.72,Unknown,Unknown,GBP
+Payroll & Pensions Officer,Hays,"Barnet, Hertfordshire",Accounting & Finance Jobs,36045.64,36045.64,36045.64,contract,part_time,GBP
+Mobile Vehicle Technician - Norwich,RAC,"Martham, Great Yarmouth",Engineering Jobs,36045.64,52000.0,44022.82,Unknown,full_time,GBP
+Senior FP&A Analyst,Network Plus,"Mosley Common, Worsley",Accounting & Finance Jobs,55000.0,60000.0,57500.0,contract,Unknown,GBP
+SLD Tutor,Targeted Provision Ltd,"Barton, Newport",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+Accounts Manager,HAYS,"Edinburgh, Scotland",Accounting & Finance Jobs,51927.36,51927.36,51927.36,Unknown,full_time,GBP
+Amazon Flex Delivery Driver - Earn £14 - £18 per hour*,Amazon Flex,"Woodley, Reading",Logistics & Warehouse Jobs,14.0,18.0,16.0,Unknown,Unknown,GBP
+FP&A Business Partner,HAYS,"Edinburgh, Scotland",Accounting & Finance Jobs,67323.7,67323.7,67323.7,permanent,full_time,GBP
+Personal Tax Semi Senior,HAYS,"London, UK",Accounting & Finance Jobs,34243.43,34243.43,34243.43,Unknown,Unknown,GBP
+SEND Teacher,Targeted Provision Ltd,"Ladywood, Birmingham",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+"SEN / SEND Tutor, Dorset",Targeted Provision Ltd,"Dorchester, Dorset",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+Finance Analyst,HAYS,"Farnborough, Hampshire",Accounting & Finance Jobs,40635.14,40635.14,40635.14,Unknown,Unknown,GBP
+Mobile Vehicle Technician - Luton,RAC,"Harpenden, Hertfordshire",Engineering Jobs,40635.14,57000.0,48817.57,Unknown,full_time,GBP
+Mobile Vehicle Technician - Northampton,RAC,"Little Oakley, Corby",Engineering Jobs,40635.14,52000.0,46317.57,Unknown,full_time,GBP
+Store Manager,KFC UK,"Ash Vale, Aldershot",Retail Jobs,35000.0,40000.0,37500.0,Unknown,full_time,GBP
+FP&A Analyst,HAYS,"Cheltenham, Gloucestershire",Accounting & Finance Jobs,51121.09,51121.09,51121.09,Unknown,Unknown,GBP
+SEND Teacher,Targeted Provision Ltd,"Woodloes Park, Warwick",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+Mobile Vehicle Technician - Northampton,RAC,"Newton Solney, Burton-On-Trent",Engineering Jobs,58240.0,52000.0,55120.0,Unknown,full_time,GBP
+Fraud Specialist,Teleperformance,"Meigle, Skelmorlie",Customer Services Jobs,37465.28,37465.28,37465.28,permanent,full_time,GBP
+Skilled Despatch Operative,Samworth Brothers,"Melton Mowbray, Leicestershire",Logistics & Warehouse Jobs,25311.0,25311.0,25311.0,permanent,Unknown,GBP
+Part Time Sales Advisor - Uncapped Commission,EE,"Annitsford, Cramlington",Part time Jobs,13379.0,13379.0,13379.0,Unknown,part_time,GBP
+International Corporate Tax Senior Manager(,HAYS,"London, UK",Accounting & Finance Jobs,92270.34,92270.34,92270.34,Unknown,Unknown,GBP
+T3 Vehicle Technician/MOT Tester,Halfords,"Oakdale, Poole",Engineering Jobs,35000.0,35000.0,35000.0,Unknown,full_time,GBP
+FP&A Manager,HAYS,"London, UK",IT Jobs,71456.26,71456.26,71456.26,Unknown,Unknown,GBP
+SEND Teacher,Targeted Provision Ltd,"St. Michael Penkivel, Truro",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+Amazon Flex Delivery Driver - Earn £14 - £18 per hour*,Amazon Flex,"Tilehurst, Reading",Logistics & Warehouse Jobs,14.0,18.0,16.0,Unknown,Unknown,GBP
+Driver,Ocado Logistics,"Bicester, Oxfordshire",Logistics & Warehouse Jobs,29.0,29.0,29.0,permanent,full_time,GBP
+Mobile Vehicle Technician - South East,RAC,"Chalvey, Slough",Engineering Jobs,29.0,52000.0,26014.5,Unknown,full_time,GBP
+Valuations Surveyor,HAYS,"Manchester, Greater Manchester",Accounting & Finance Jobs,46355.93,46355.93,46355.93,permanent,Unknown,GBP
+Financial Accountant *Travel*,HAYS,"The City, Central London",Accounting & Finance Jobs,57170.13,57170.13,57170.13,Unknown,Unknown,GBP
+Finance Manager FTC,HAYS,"Belfast, Northern Ireland",Accounting & Finance Jobs,41953.0,41953.0,41953.0,contract,Unknown,GBP
+Payroll Senior specialist,HAYS,"Manchester, Greater Manchester",Accounting & Finance Jobs,32220.4,32220.4,32220.4,permanent,full_time,GBP
+Finance Manager (FMCG),HAYS,"London, UK",Accounting & Finance Jobs,80181.38,80181.38,80181.38,Unknown,Unknown,GBP
+Accounts Payable,HAYS,"Tewkesbury, Gloucestershire",Accounting & Finance Jobs,41169.7,41169.7,41169.7,contract,Unknown,GBP
+Mobile Vehicle Technician,RAC,"Claygate, Esher",Engineering Jobs,41169.7,52000.0,46584.85,Unknown,full_time,GBP
+Senior Quantity Surveyor,HAYS,"East Sussex, South East England",Trade & Construction Jobs,71792.8,71792.8,71792.8,permanent,Unknown,GBP
+Civils Project Manager,HAYS,UK,Trade & Construction Jobs,58701.91,58701.91,58701.91,Unknown,Unknown,GBP
+SEN Teacher,Targeted Provision Ltd,"Low Hill, Liverpool",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+Private Client Tax Senior Manager/Director,HAYS,"Birmingham, West Midlands",Accounting & Finance Jobs,68045.09,68045.09,68045.09,Unknown,Unknown,GBP
+Bromley Assistant or Junior Quantity Surveyor,HAYS,"Bromley, South East London",Trade & Construction Jobs,37345.49,37345.49,37345.49,Unknown,Unknown,GBP
+Audit - Assistant Manager - Industry & Services,Forvis Mazars,"Temple Meads, Bristol",Accounting & Finance Jobs,53684.71,53684.71,53684.71,Unknown,full_time,GBP
+Cycle Technician,Halfords,"Earlswood, Solihull",Retail Jobs,21632.0,26228.0,23930.0,Unknown,part_time,GBP
+Roadside Vehicle Technician,RAC,"Tredington, Tewkesbury",Engineering Jobs,21632.0,61000.0,41316.0,Unknown,full_time,GBP
+Retail Assistant,Co-op,"Bala, Gwynedd",Retail Jobs,12.0,12.0,12.0,contract,part_time,GBP
+Superflex Roadside Patrol - Slough,RAC,"Chalvey, Slough",Engineering Jobs,12.0,61000.0,30506.0,Unknown,full_time,GBP
+Mobile Vehicle Technician - North West,RAC,"Birkdale, Southport",Engineering Jobs,12.0,52000.0,26006.0,Unknown,full_time,GBP
+"SEN / SEND Tutor, Tyne and Wear",Targeted Provision Ltd,"Bensham, Gateshead",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+Assistant Quantity Surveyor,HAYS,"Market Harborough, Leicestershire",Trade & Construction Jobs,34745.75,34745.75,34745.75,contract,Unknown,GBP
+Customer Service Advisor,Teleperformance,"Hillhall, Lisburn",Customer Services Jobs,32246.62,32246.62,32246.62,permanent,full_time,GBP
+Payroll and Benefits Administrator,Hays,"London, UK",Accounting & Finance Jobs,37232.58,37232.58,37232.58,Unknown,Unknown,GBP
+Project Manager (Building Consultancy),HAYS,"Belfast, Northern Ireland",Trade & Construction Jobs,51017.44,51017.44,51017.44,Unknown,Unknown,GBP
+Audit Senior,HAYS,"Witney, Oxfordshire",Accounting & Finance Jobs,45112.52,45112.52,45112.52,permanent,full_time,GBP
+Mobile Tyre Technician,Halfords,"Reddish, Stockport",Logistics & Warehouse Jobs,29500.0,29500.0,29500.0,Unknown,full_time,GBP
+Special Education Needs Teacher,Targeted Provision Ltd,"Southerham, Lewes",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+Financial Controller,HAYS,"Milton Keynes, Buckinghamshire",Accounting & Finance Jobs,70480.12,70480.12,70480.12,Unknown,Unknown,GBP
+Call Centre Agent - Uncapped Commission,EE,"Spital Tongues, Newcastle Upon Tyne",Sales Jobs,25087.0,25087.0,25087.0,permanent,full_time,GBP
+Group Financial Accountant,HAYS,"Walsall, West Midlands",Accounting & Finance Jobs,56579.68,56579.68,56579.68,permanent,Unknown,GBP
+Roadside Rescue Mechanic,RAC,"Brentford, West London",Engineering Jobs,56579.68,66000.0,61289.84,Unknown,full_time,GBP
+SEN Class Teacher,Polaris Community,"Wollaston, Stourbridge",Teaching Jobs,30455.66,30455.66,30455.66,Unknown,full_time,GBP
+Night Trunk Driver,Gregory,"Cannards Grave, Shepton Mallet",Logistics & Warehouse Jobs,40000.0,42000.0,41000.0,permanent,Unknown,GBP
+Outsourcing Manager,HAYS,"Liverpool, Merseyside",Accounting & Finance Jobs,53920.79,53920.79,53920.79,Unknown,Unknown,GBP
+Speech & Language Therapist,Witherslack Group,"Willington, Crook",Healthcare & Nursing Jobs,39606.6,39606.6,39606.6,Unknown,full_time,GBP
+Sales Advisor - Uncapped Commission,EE,"West Harlsey, Northallerton",Sales Jobs,25087.0,25087.0,25087.0,permanent,full_time,GBP
+Intermediate Building surveyor,HAYS,"Belfast, Northern Ireland",Trade & Construction Jobs,39499.89,39499.89,39499.89,Unknown,Unknown,GBP
+Customer Team Member,Co-op,"Dorchester, Dorset",Retail Jobs,12.0,12.0,12.0,permanent,part_time,GBP
+Mobile Vehicle Technician,RAC,"Edgware, North West London",Engineering Jobs,12.0,57000.0,28506.0,Unknown,full_time,GBP
+MLD Teacher,Targeted Provision Ltd,"Caversham, Reading",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+Interim M&A Finance Lead,HAYS,"Manchester, Greater Manchester",Accounting & Finance Jobs,58712.43,58712.43,58712.43,contract,Unknown,GBP
+Bookkeeper,HAYS,"Hitchin, Hertfordshire",Accounting & Finance Jobs,32839.94,32839.94,32839.94,Unknown,Unknown,GBP
+Sales Agent - Uncapped Commission,EE,"Hurworth, Darlington",Sales Jobs,25087.0,25087.0,25087.0,permanent,full_time,GBP
+Mobile Mechanic,RAC,"Trigon, Wareham",Engineering Jobs,25087.0,52000.0,38543.5,Unknown,full_time,GBP
+Sales Associate - Uncapped Commission,EE,"Hurworth, Darlington",Sales Jobs,20.0,13379.0,6699.5,Unknown,part_time,GBP
+Commercial Tyre Technician - Mobile,Halfords,"Dunnikier Park, Kirkcaldy",Engineering Jobs,40000.0,60000.0,50000.0,Unknown,full_time,GBP
+Internal Audit Manager,HAYS,"London, UK",Accounting & Finance Jobs,69536.08,69536.08,69536.08,Unknown,Unknown,GBP
+Scrub Nurse/ODP,Ramsay Health Care,"Lezant, Launceston",Healthcare & Nursing Jobs,39909.66,39909.66,39909.66,Unknown,full_time,GBP
+Mobile Mechanic,RAC,"Loudwater, High Wycombe",Engineering Jobs,39909.66,52000.0,45954.83,Unknown,full_time,GBP
+Tiler (Self-Employed),MyJobQuote,"Berkshire, South East England",Trade & Construction Jobs,51821.1,51821.1,51821.1,contract,Unknown,GBP
+Mobile Mechanic,RAC,"Washaway, Bodmin",Engineering Jobs,51821.1,52000.0,51910.55,Unknown,full_time,GBP
+Vehicle Accessory Fitter,Halfords,"Waterglade Industrial Park, West Thurrock",Retail Jobs,23920.0,28516.0,26218.0,Unknown,part_time,GBP
+Multi Skilled Maintenance Engineer,Samworth Brothers,"Callington, Cornwall",Manufacturing Jobs,50086.0,50086.0,50086.0,permanent,Unknown,GBP
+Delivery Driver - Purfleet,Ocado Logistics,"West Tilbury, Tilbury",Logistics & Warehouse Jobs,13.0,13.0,13.0,permanent,full_time,GBP
+Assistant FM Manager –Prison Maintenance,HAYS,"Leicestershire, East Midlands",Trade & Construction Jobs,38661.52,38661.52,38661.52,contract,Unknown,GBP
+Warehouse,Ocado Logistics,"South Ockendon, Essex",Logistics & Warehouse Jobs,12.0,12.0,12.0,Unknown,full_time,GBP
+Amazon Now E-Bike Delivery Partner - Earn £13 - £15 per hour*,Amazon Flex,"South Kensington, South West London",Logistics & Warehouse Jobs,13.0,15.0,14.0,Unknown,Unknown,GBP
+Mobile Vehicle Technician,RAC,"North Mymms, Hatfield",Engineering Jobs,13.0,52000.0,26006.5,Unknown,full_time,GBP
+Roadside Vehicle Mechanic,RAC,"Cadley, Marlborough",Engineering Jobs,13.0,61000.0,30506.5,Unknown,full_time,GBP
+Fostering Engagement Officer,Polaris Community,"Woodgate, Birmingham",Customer Services Jobs,25332.01,25332.01,25332.01,permanent,full_time,GBP
+Business Development Manager,Simplyhealth,"Ocean Village, Southampton",Sales Jobs,25332.01,70000.0,47666.005,Unknown,full_time,GBP
+H&S Manager,HAYS,"Aberdeen, Aberdeenshire",Trade & Construction Jobs,68455.67,68455.67,68455.67,Unknown,Unknown,GBP
+Jointing Supervisor,Network Plus,"Thingley, Corsham",Engineering Jobs,55000.0,60000.0,57500.0,Unknown,Unknown,GBP
+Residential Childcare Support Worker,Leaving Care Solutions,"Eastmoor, Wakefield",Social work Jobs,28278.85,28278.85,28278.85,Unknown,part_time,GBP
+Associate Director Tax deals advisory,HAYS,"Belfast, Northern Ireland",Accounting & Finance Jobs,84146.68,84146.68,84146.68,Unknown,Unknown,GBP
+Mobile Mechanic,RAC,"Wytham, Oxford",Engineering Jobs,84146.68,52000.0,68073.34,Unknown,full_time,GBP
+Quantity Surveyor,HAYS,"North Somerset, South West England",Trade & Construction Jobs,49572.5,49572.5,49572.5,contract,Unknown,GBP
+FP&A Manager,HAYS,"London, UK",Accounting & Finance Jobs,87626.47,87626.47,87626.47,Unknown,Unknown,GBP
+Residential Childcare Support Worker,Headway Adolescent Resources Limited,"Berrow, Burnham-On-Sea",Social work Jobs,31456.94,31456.94,31456.94,permanent,full_time,GBP
+"SEN / SEND Tutor, Dorset",Targeted Provision Ltd,"Trigon, Wareham",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+Tiler (Self-Employed),MyJobQuote,"Northamptonshire, East Midlands",Trade & Construction Jobs,51785.68,51785.68,51785.68,contract,Unknown,GBP
+SEN Teacher,Polaris Community,"Healey, Batley",Teaching Jobs,29782.06,29782.06,29782.06,Unknown,full_time,GBP
+Call Centre Operator - Uncapped Commission,EE,"Spital Tongues, Newcastle Upon Tyne",Sales Jobs,13379.0,13379.0,13379.0,Unknown,part_time,GBP
+Site Manager,HAYS,"County Down, Northern Ireland",Trade & Construction Jobs,56712.36,56712.36,56712.36,permanent,Unknown,GBP
+Market Research Interviewer - Car Required - Part Time,Ipsos,"Milton, Brampton",Part time Jobs,14.0,14.0,14.0,Unknown,part_time,GBP
+Pharmacy Manager,Ramsay Health Care,"Cheshunt, Waltham Cross",Healthcare & Nursing Jobs,45807.56,45807.56,45807.56,Unknown,full_time,GBP
+Tiler (Self-Employed),MyJobQuote,"Crewe, Cheshire",Trade & Construction Jobs,52913.07,52913.07,52913.07,contract,Unknown,GBP
+SEN Teacher,Targeted Provision Ltd,"Caversham, Reading",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+Senior Quantity Surveyor,HAYS,"Reading, Berkshire",Trade & Construction Jobs,62566.92,62566.92,62566.92,contract,Unknown,GBP
+Management Accountant - Construction,HAYS,"London, UK",Accounting & Finance Jobs,59150.29,59150.29,59150.29,Unknown,Unknown,GBP
+Roadside Rescue Mechanic,RAC,"Rodbourne Cheney, Swindon",Engineering Jobs,59150.29,61000.0,60075.145000000004,Unknown,full_time,GBP
+Supervisor / Foreman,HAYS,"Glasgow, Scotland",Trade & Construction Jobs,43152.63,43152.63,43152.63,Unknown,Unknown,GBP
+Skilled Production Operative,Samworth Brothers,"Melton Mowbray, Leicestershire",Retail Jobs,17069.0,17069.0,17069.0,permanent,Unknown,GBP
+Field Interviewer - Car Required – Full Time,Ipsos,"Hull, East Riding Of Yorkshire",Sales Jobs,23000.0,23000.0,23000.0,Unknown,full_time,GBP
+Senior Children's Residential Support Worker,Witherslack Group,"The Headland, Hartlepool",Social work Jobs,34514.86,34514.86,34514.86,Unknown,full_time,GBP
+Amazon Now E-Bike Delivery Partner - Earn £13 - £15 per hour*,Amazon Flex,"Newington, South East London",Logistics & Warehouse Jobs,13.0,15.0,14.0,Unknown,Unknown,GBP
+Market Research Interviewer – Car Required – Full Time,Ipsos,"Avonwick, South Brent",Sales Jobs,23000.0,23000.0,23000.0,Unknown,full_time,GBP
+Pharmacy Manager,Ramsay Health Care,"Leavesden, Watford",Healthcare & Nursing Jobs,46225.61,46225.61,46225.61,Unknown,full_time,GBP
+Tiler (Self-Employed),MyJobQuote,"Gravesend, Kent",Trade & Construction Jobs,52202.49,52202.49,52202.49,contract,Unknown,GBP
+Tiler (Self-Employed),MyJobQuote,"Maidstone, Kent",Trade & Construction Jobs,52974.98,52974.98,52974.98,contract,Unknown,GBP
+Finance Business Partner,HAYS,"London, UK",Accounting & Finance Jobs,55412.88,55412.88,55412.88,Unknown,Unknown,GBP
+Community Engagement Practitioner,Hestia Housing Support,"Farringdon, Central London",Social work Jobs,30246.0,30246.0,30246.0,Unknown,Unknown,GBP
+Tiler (Self-Employed),MyJobQuote,"Cheadle, Greater Manchester",Trade & Construction Jobs,51865.2,51865.2,51865.2,contract,Unknown,GBP
+Field Interviewer - Car Required – Full Time,Ipsos,"West London, London",Sales Jobs,25000.0,25000.0,25000.0,Unknown,full_time,GBP
+Senior Internal Auditor,HAYS,"London, UK",Accounting & Finance Jobs,70854.42,70854.42,70854.42,Unknown,Unknown,GBP
+Finance Manager,HAYS,"Manchester, Greater Manchester",Accounting & Finance Jobs,50201.88,50201.88,50201.88,contract,full_time,GBP
+Audit Senior,HAYS,"Aylesbury, Buckinghamshire",Accounting & Finance Jobs,49547.17,49547.17,49547.17,Unknown,Unknown,GBP
+Kitchen Fitter (Self-Employed),MyJobQuote,"Sompting, Lancing",Trade & Construction Jobs,42492.69,42492.69,42492.69,contract,Unknown,GBP
+Decorator (Self-Employed),MyJobQuote,"Grimsby, North East Lincolnshire",Trade & Construction Jobs,40199.86,40199.86,40199.86,contract,Unknown,GBP
+Builder (Self-Employed),MyJobQuote,"Northumberland, North East England",Trade & Construction Jobs,42190.48,42190.48,42190.48,contract,Unknown,GBP
+Special Education Needs Teacher,Targeted Provision Ltd,"Tram Inn, Hereford",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+Customer Team Leader,Co-op,"Bransgore, Christchurch",Retail Jobs,13.0,13.0,13.0,permanent,part_time,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Corby, Northamptonshire",Trade & Construction Jobs,45696.95,45696.95,45696.95,contract,Unknown,GBP
+Mobile Tyre Technician,Halfords,"Chelmsford, Essex",Logistics & Warehouse Jobs,30000.0,30000.0,30000.0,Unknown,full_time,GBP
+Bench Engineer/Field Service Engineer,Rosscare,"Surrey, South East England",Engineering Jobs,26395.0,26395.0,26395.0,permanent,full_time,GBP
+Builder (Self-Employed),MyJobQuote,"North East England, UK",Trade & Construction Jobs,42548.49,42548.49,42548.49,contract,Unknown,GBP
+Kitchen Fitter (Self-Employed),MyJobQuote,"West Yorkshire, Yorkshire And The Humber",Trade & Construction Jobs,39681.34,39681.34,39681.34,contract,Unknown,GBP
+Builder (Self-Employed),MyJobQuote,"Woolston, Kingsbridge",Trade & Construction Jobs,40715.52,40715.52,40715.52,contract,Unknown,GBP
+Bathroom Fitter (Self-Employed),MyJobQuote,"Stanley, Ilkeston",Trade & Construction Jobs,46908.35,46908.35,46908.35,contract,Unknown,GBP
+Builder (Self-Employed),MyJobQuote,"East Dunbartonshire, Scotland",Trade & Construction Jobs,40586.73,40586.73,40586.73,contract,Unknown,GBP
+Kitchen Fitter (Self-Employed),MyJobQuote,"Liverpool, Merseyside",Trade & Construction Jobs,43547.57,43547.57,43547.57,contract,Unknown,GBP
+Decorator (Self-Employed),MyJobQuote,"Manchester Science Park, Manchester",Trade & Construction Jobs,45737.24,45737.24,45737.24,contract,Unknown,GBP
+Tiler (Self-Employed),MyJobQuote,"Durham, County Durham",Trade & Construction Jobs,58215.32,58215.32,58215.32,contract,Unknown,GBP
+Tiler (Self-Employed),MyJobQuote,"Witney, Oxfordshire",Trade & Construction Jobs,49754.23,49754.23,49754.23,contract,Unknown,GBP
+Kitchen Fitter (Self-Employed),MyJobQuote,"Ely, Cambridgeshire",Trade & Construction Jobs,41432.81,41432.81,41432.81,contract,Unknown,GBP
+Mobile Vehicle Technician - Coventry,RAC,"Hilderstone, Stone",Engineering Jobs,41432.81,52000.0,46716.405,Unknown,full_time,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Stratford, East London",Trade & Construction Jobs,46156.62,46156.62,46156.62,contract,Unknown,GBP
+MLD Teacher,Targeted Provision Ltd,"Frieze Hill, Taunton",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+Tiler (Self-Employed),MyJobQuote,"Garsington, Oxford",Trade & Construction Jobs,55727.68,55727.68,55727.68,contract,Unknown,GBP
+Tiler (Self-Employed),MyJobQuote,"Gateshead, Tyne & Wear",Trade & Construction Jobs,56444.19,56444.19,56444.19,contract,Unknown,GBP
+Kitchen Fitter (Self-Employed),MyJobQuote,"Luton, Bedfordshire",Trade & Construction Jobs,38234.18,38234.18,38234.18,contract,Unknown,GBP
+Bathroom Fitter (Self-Employed),MyJobQuote,"Woodbridge, Suffolk",Trade & Construction Jobs,38564.27,38564.27,38564.27,contract,Unknown,GBP
+Bathroom Fitter (Self-Employed),MyJobQuote,"Fieldhead Business Centre, Bradford",Trade & Construction Jobs,47578.12,47578.12,47578.12,contract,Unknown,GBP
+Payroll Officer,HAYS,"St. Mellons, Cardiff",Accounting & Finance Jobs,28440.04,28440.04,28440.04,contract,Unknown,GBP
+Decorator (Self-Employed),MyJobQuote,"Carlisle, Cumbria",Trade & Construction Jobs,44946.2,44946.2,44946.2,contract,Unknown,GBP
+Bathroom Fitter (Self-Employed),MyJobQuote,"Lichfield, Staffordshire",Trade & Construction Jobs,47772.17,47772.17,47772.17,contract,Unknown,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Reading, Berkshire",Trade & Construction Jobs,40285.41,40285.41,40285.41,contract,Unknown,GBP
+Builder (Self-Employed),MyJobQuote,"Kidderminster, Worcestershire",Trade & Construction Jobs,47738.69,47738.69,47738.69,contract,Unknown,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Chester, Cheshire",Trade & Construction Jobs,42776.53,42776.53,42776.53,contract,Unknown,GBP
+Decorator (Self-Employed),MyJobQuote,"Chester, Cheshire",Trade & Construction Jobs,41158.43,41158.43,41158.43,contract,Unknown,GBP
+Bathroom Fitter (Self-Employed),MyJobQuote,"York, North Yorkshire",Trade & Construction Jobs,45452.21,45452.21,45452.21,contract,Unknown,GBP
+Customer Team Leader,Co-op,"Tonbridge, Kent",Retail Jobs,13.0,13.0,13.0,permanent,part_time,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Stratford-Upon-Avon, Warwickshire",Trade & Construction Jobs,44201.63,44201.63,44201.63,contract,Unknown,GBP
+Head of Finance,HAYS,"Cornwall, South West England",Accounting & Finance Jobs,62378.06,62378.06,62378.06,Unknown,Unknown,GBP
+Bathroom Fitter (Self-Employed),MyJobQuote,"Sutton Coldfield, West Midlands",Trade & Construction Jobs,46743.7,46743.7,46743.7,contract,Unknown,GBP
+Decorator (Self-Employed),MyJobQuote,"Warwick, Warwickshire",Trade & Construction Jobs,46854.92,46854.92,46854.92,contract,Unknown,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Tyne & Wear, North East England",Trade & Construction Jobs,44828.18,44828.18,44828.18,contract,Unknown,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Bournemouth, Dorset",Trade & Construction Jobs,42660.31,42660.31,42660.31,contract,Unknown,GBP
+Kitchen Fitter (Self-Employed),MyJobQuote,"Healey, Rochdale",Trade & Construction Jobs,39908.37,39908.37,39908.37,contract,Unknown,GBP
+Decorator (Self-Employed),MyJobQuote,"Windsor, Windsor & Maidenhead",Trade & Construction Jobs,40962.37,40962.37,40962.37,contract,Unknown,GBP
+Bathroom Fitter (Self-Employed),MyJobQuote,"Bermuda Park, Nuneaton",Trade & Construction Jobs,50424.61,50424.61,50424.61,contract,Unknown,GBP
+Decorator (Self-Employed),MyJobQuote,"Cullompton, Devon",Trade & Construction Jobs,45564.53,45564.53,45564.53,contract,Unknown,GBP
+"SEN / SEND Tutor, Shropshire",Targeted Provision Ltd,"Coalbrookdale, Telford",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+Builder (Self-Employed),MyJobQuote,"Newton Solney, Burton-On-Trent",Trade & Construction Jobs,50804.44,50804.44,50804.44,contract,Unknown,GBP
+Builder (Self-Employed),MyJobQuote,"Leeds, West Yorkshire",Trade & Construction Jobs,43758.22,43758.22,43758.22,contract,Unknown,GBP
+Builder (Self-Employed),MyJobQuote,"Worcester, Worcestershire",Trade & Construction Jobs,42356.95,42356.95,42356.95,contract,Unknown,GBP
+Decorator (Self-Employed),MyJobQuote,"County Tyrone, Northern Ireland",Trade & Construction Jobs,42177.01,42177.01,42177.01,contract,Unknown,GBP
+Treasury Manager,HAYS,"Antrim, County Antrim",Accounting & Finance Jobs,52618.84,52618.84,52618.84,Unknown,Unknown,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Newbury, West Berkshire",Trade & Construction Jobs,40292.24,40292.24,40292.24,contract,Unknown,GBP
+Building Safety Manager,HAYS,"London, UK",Trade & Construction Jobs,54939.36,54939.36,54939.36,Unknown,Unknown,GBP
+Bathroom Fitter (Self-Employed),MyJobQuote,"Chorley, Lancashire",Trade & Construction Jobs,44317.54,44317.54,44317.54,contract,Unknown,GBP
+Bathroom Fitter (Self-Employed),MyJobQuote,"Liverpool, Merseyside",Trade & Construction Jobs,45177.53,45177.53,45177.53,contract,Unknown,GBP
+Builder (Self-Employed),MyJobQuote,"Bridgend, Bridgend County",Trade & Construction Jobs,48454.09,48454.09,48454.09,contract,Unknown,GBP
+Delivery Driver - Crawley,Ocado Logistics,"Dormans Park, East Grinstead",Logistics & Warehouse Jobs,13.0,13.0,13.0,permanent,full_time,GBP
+Builder (Self-Employed),MyJobQuote,"Leavesden, Watford",Trade & Construction Jobs,42597.37,42597.37,42597.37,contract,Unknown,GBP
+Roadside Technician,RAC,"St. Mary Cray, Orpington",Engineering Jobs,42597.37,66000.0,54298.685,Unknown,full_time,GBP
+Site Manager,HAYS,"Flintshire, Wales",Trade & Construction Jobs,56347.06,56347.06,56347.06,Unknown,Unknown,GBP
+Builder (Self-Employed),MyJobQuote,"Wrexham, Wales",Trade & Construction Jobs,47500.18,47500.18,47500.18,contract,Unknown,GBP
+Kitchen Fitter (Self-Employed),MyJobQuote,"Chertsey, Surrey",Trade & Construction Jobs,45029.95,45029.95,45029.95,contract,Unknown,GBP
+Purchase Ledger Clerk,HAYS,"Christchurch, Dorset",Accounting & Finance Jobs,35236.08,35236.08,35236.08,contract,Unknown,GBP
+SEN Teacher,Targeted Provision Ltd,"Hilperton Marsh, Trowbridge",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+"SEN / SEND Tutor, Warwickshire",Targeted Provision Ltd,"Exhall, Bedworth",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+Builder (Self-Employed),MyJobQuote,"Powys, Wales",Trade & Construction Jobs,47570.77,47570.77,47570.77,contract,Unknown,GBP
+Tax Technician,HAYS,"Belfast, Northern Ireland",Accounting & Finance Jobs,30293.3,30293.3,30293.3,Unknown,Unknown,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Dundee, Scotland",Trade & Construction Jobs,45791.23,45791.23,45791.23,contract,Unknown,GBP
+Roadside Technician - Bromley,RAC,"Brompton, Gillingham",Engineering Jobs,45791.23,66000.0,55895.615000000005,Unknown,full_time,GBP
+Electrician,HAYS,"Nottingham, Nottinghamshire",Trade & Construction Jobs,37628.42,37628.42,37628.42,contract,Unknown,GBP
+Builder (Self-Employed),MyJobQuote,"Wiltshire, South West England",Trade & Construction Jobs,49646.45,49646.45,49646.45,contract,Unknown,GBP
+Builder (Self-Employed),MyJobQuote,"Pembrokeshire, Wales",Trade & Construction Jobs,51154.0,51154.0,51154.0,contract,Unknown,GBP
+Apprentice Chef,The Army,UK,Hospitality & Catering Jobs,26334.0,26334.0,26334.0,permanent,full_time,GBP
+Building Services Manager (Mechanical),HAYS,"Peterborough, Eastern England",Trade & Construction Jobs,50520.59,50520.59,50520.59,Unknown,full_time,GBP
+Decorator (Self-Employed),MyJobQuote,"Lancashire, North West England",Trade & Construction Jobs,43925.75,43925.75,43925.75,contract,Unknown,GBP
+Decorator (Self-Employed),MyJobQuote,"Basildon, Essex",Trade & Construction Jobs,41838.61,41838.61,41838.61,contract,Unknown,GBP
+Tiler (Self-Employed),MyJobQuote,"Fareham, Hampshire",Trade & Construction Jobs,50087.06,50087.06,50087.06,contract,Unknown,GBP
+Tiler (Self-Employed),MyJobQuote,"Horsham, West Sussex",Trade & Construction Jobs,61686.44,61686.44,61686.44,contract,Unknown,GBP
+Builder (Self-Employed),MyJobQuote,"Altrincham, Greater Manchester",Trade & Construction Jobs,39682.93,39682.93,39682.93,contract,Unknown,GBP
+Theatre Practitioner - Scrub RN/ODP,Ramsay Health Care,"Tresillian, Newquay",Healthcare & Nursing Jobs,34194.34,34194.34,34194.34,Unknown,full_time,GBP
+SEN Teacher,Targeted Provision Ltd,"Aylesbury, Buckinghamshire",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+Kitchen Fitter (Self-Employed),MyJobQuote,"Bromsgrove, Worcestershire",Trade & Construction Jobs,46311.12,46311.12,46311.12,contract,Unknown,GBP
+Decorator (Self-Employed),MyJobQuote,"North London, London",Maintenance Jobs,42041.36,42041.36,42041.36,contract,Unknown,GBP
+Builder (Self-Employed),MyJobQuote,"Altrincham, Greater Manchester",Trade & Construction Jobs,41601.4,41601.4,41601.4,contract,Unknown,GBP
+Site Manager,HAYS,"Liverpool, Merseyside",Trade & Construction Jobs,51005.57,51005.57,51005.57,Unknown,Unknown,GBP
+Kitchen Fitter (Self-Employed),MyJobQuote,"Ingatestone, Essex",Trade & Construction Jobs,44101.84,44101.84,44101.84,contract,Unknown,GBP
+Builder (Self-Employed),MyJobQuote,"Rhondda Cynon Taff, Wales",Trade & Construction Jobs,44617.57,44617.57,44617.57,contract,Unknown,GBP
+Delivery Driver (Part Time 24 hours) - Andover,Ocado Logistics,"Andover, Hampshire",Part time Jobs,13.0,13.0,13.0,permanent,part_time,GBP
+Bathroom Fitter (Self-Employed),MyJobQuote,"Solihull, West Midlands",Trade & Construction Jobs,43284.69,43284.69,43284.69,contract,Unknown,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Scunthorpe, North Lincolnshire",Trade & Construction Jobs,45001.75,45001.75,45001.75,contract,Unknown,GBP
+Kitchen Fitter (Self-Employed),MyJobQuote,"Normanton, West Yorkshire",Trade & Construction Jobs,45906.27,45906.27,45906.27,contract,Unknown,GBP
+Maintenance Electrician Kent,HAYS,"Kent, South East England",Trade & Construction Jobs,42517.05,42517.05,42517.05,contract,Unknown,GBP
+SEND Teacher,Targeted Provision Ltd,"Dorchester, Dorset",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+Quantity Surveyor,HAYS,"Edinburgh, Scotland",Trade & Construction Jobs,57998.09,57998.09,57998.09,Unknown,Unknown,GBP
+Tiler (Self-Employed),MyJobQuote,"Clapham Junction, South West London",Trade & Construction Jobs,53617.22,53617.22,53617.22,contract,Unknown,GBP
+Roadside Mechanic,RAC,"Oxford Circus, Central London",Engineering Jobs,53617.22,66000.0,59808.61,Unknown,full_time,GBP
+SLD Tutor,Targeted Provision Ltd,"Handbridge, Chester",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+Decorator (Self-Employed),MyJobQuote,"Tamworth, Staffordshire",Trade & Construction Jobs,44472.96,44472.96,44472.96,contract,Unknown,GBP
+Decorator (Self-Employed),MyJobQuote,"Orpington, London",Trade & Construction Jobs,49680.6,49680.6,49680.6,contract,Unknown,GBP
+Legal Biller,HAYS,"London, UK",Accounting & Finance Jobs,37371.75,37371.75,37371.75,contract,Unknown,GBP
+Bathroom Fitter (Self-Employed),MyJobQuote,"West Berkshire, South East England",Trade & Construction Jobs,47003.01,47003.01,47003.01,contract,Unknown,GBP
+Accounts Manager,HAYS,"Cambridge, Cambridgeshire",Accounting & Finance Jobs,33492.95,33492.95,33492.95,contract,Unknown,GBP
+Decorator (Self-Employed),MyJobQuote,"Blandford Forum, Dorset",Trade & Construction Jobs,44520.41,44520.41,44520.41,contract,Unknown,GBP
+Carpenter (Self-Employed),MyJobQuote,"Caversham, Reading",Trade & Construction Jobs,45519.62,45519.62,45519.62,contract,Unknown,GBP
+Decorator (Self-Employed),MyJobQuote,"Coalville, Leicestershire",Trade & Construction Jobs,45789.48,45789.48,45789.48,contract,Unknown,GBP
+Financial Controller *Start-up Tech*,HAYS,"The City, Central London",Accounting & Finance Jobs,75523.76,75523.76,75523.76,Unknown,Unknown,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Berkshire, South East England",Trade & Construction Jobs,41331.14,41331.14,41331.14,contract,Unknown,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Witney, Oxfordshire",Trade & Construction Jobs,46014.48,46014.48,46014.48,contract,Unknown,GBP
+Decorator (Self-Employed),MyJobQuote,"Clapham Junction, South West London",Trade & Construction Jobs,48310.04,48310.04,48310.04,contract,Unknown,GBP
+Trainee Solicitor,Bell Cornwall Recruitment,"Warwick, Warwickshire",Legal Jobs,24000.0,26000.0,25000.0,permanent,full_time,GBP
+Kitchen Fitter (Self-Employed),MyJobQuote,"Hastings, East Sussex",Trade & Construction Jobs,43659.22,43659.22,43659.22,contract,Unknown,GBP
+Decorator (Self-Employed),MyJobQuote,"Farnborough, Hampshire",Trade & Construction Jobs,41495.92,41495.92,41495.92,contract,Unknown,GBP
+Delivery Driver - Leeds,Ocado Logistics,"Hillhouse, Huddersfield",Logistics & Warehouse Jobs,12.0,12.0,12.0,permanent,full_time,GBP
+Bathroom Fitter (Self-Employed),MyJobQuote,"Godalming, Surrey",Trade & Construction Jobs,45348.3,45348.3,45348.3,contract,Unknown,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Milton Keynes, Buckinghamshire",Trade & Construction Jobs,45463.0,45463.0,45463.0,contract,Unknown,GBP
+Floor Fitter (Self-Employed),MyJobQuote,"Inverclyde, Scotland",Trade & Construction Jobs,46005.97,46005.97,46005.97,contract,Unknown,GBP
+Tiler (Self-Employed),MyJobQuote,"Plymouth, South West England",Trade & Construction Jobs,60565.19,60565.19,60565.19,contract,Unknown,GBP
+"SEN / SEND Tutor, Dorset",Targeted Provision Ltd,"West Allington, Bridport",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+Floor Fitter (Self-Employed),MyJobQuote,"Morpeth, Northumberland",Trade & Construction Jobs,39421.16,39421.16,39421.16,contract,Unknown,GBP
+Scrub Nurse/ODP - Theatre Practitioner,Ramsay Health Care,"Ashtead, Surrey",Healthcare & Nursing Jobs,40908.73,40908.73,40908.73,Unknown,full_time,GBP
+Floor Fitter (Self-Employed),MyJobQuote,"Rusholme, Manchester",Trade & Construction Jobs,42636.84,42636.84,42636.84,contract,Unknown,GBP
+Floor Fitter (Self-Employed),MyJobQuote,"Ashton-Under-Lyne, Greater Manchester",Trade & Construction Jobs,44786.64,44786.64,44786.64,contract,Unknown,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Warrington, Cheshire",Trade & Construction Jobs,44395.29,44395.29,44395.29,contract,Unknown,GBP
+Commercial Manager / Quantity Surveyor,HAYS,"Hull, East Riding Of Yorkshire",Trade & Construction Jobs,54255.35,54255.35,54255.35,permanent,Unknown,GBP
+Kitchen Fitter (Self-Employed),MyJobQuote,"Kent, South East England",Trade & Construction Jobs,46466.4,46466.4,46466.4,contract,Unknown,GBP
+Decorator (Self-Employed),MyJobQuote,"Dundee, Scotland",Trade & Construction Jobs,47175.73,47175.73,47175.73,contract,Unknown,GBP
+Builder (Self-Employed),MyJobQuote,"Cullompton, Devon",Trade & Construction Jobs,41085.84,41085.84,41085.84,contract,Unknown,GBP
+Carpenter (Self-Employed),MyJobQuote,"Aldershot, Hampshire",Trade & Construction Jobs,49754.28,49754.28,49754.28,contract,Unknown,GBP
+Builder (Self-Employed),MyJobQuote,"Blaenau Gwent, Wales",Trade & Construction Jobs,44825.96,44825.96,44825.96,contract,Unknown,GBP
+Tiler (Self-Employed),MyJobQuote,"Midlothian, Scotland",Trade & Construction Jobs,54121.4,54121.4,54121.4,contract,Unknown,GBP
+BIM Manager,HAYS,"Lisburn, Northern Ireland",IT Jobs,48519.29,48519.29,48519.29,Unknown,Unknown,GBP
+Decorator (Self-Employed),MyJobQuote,"Wealdstone, Harrow",Trade & Construction Jobs,36834.34,36834.34,36834.34,contract,Unknown,GBP
+Bathroom Fitter (Self-Employed),MyJobQuote,"Farnborough, Hampshire",Trade & Construction Jobs,48902.26,48902.26,48902.26,contract,Unknown,GBP
+Floor Fitter (Self-Employed),MyJobQuote,"Dorset, South West England",Trade & Construction Jobs,45976.06,45976.06,45976.06,contract,Unknown,GBP
+Builder (Self-Employed),MyJobQuote,"Bridgwater, Somerset",Trade & Construction Jobs,43641.15,43641.15,43641.15,contract,Unknown,GBP
+Tiler (Self-Employed),MyJobQuote,"Burton-On-Trent, Staffordshire",Trade & Construction Jobs,48869.02,48869.02,48869.02,contract,Unknown,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Sutton, London",Trade & Construction Jobs,45210.29,45210.29,45210.29,contract,Unknown,GBP
+Carpenter (Self-Employed),MyJobQuote,"Bridgwater, Somerset",Trade & Construction Jobs,46421.58,46421.58,46421.58,contract,Unknown,GBP
+Senior Quantity Surveyor,HAYS,"Coventry, West Midlands",Trade & Construction Jobs,57640.78,57640.78,57640.78,Unknown,Unknown,GBP
+Ex-NTP Teacher,Targeted Provision Ltd,"Marston Gate, Stafford",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+Decorator (Self-Employed),MyJobQuote,"Cliddesden, Basingstoke",Trade & Construction Jobs,45738.59,45738.59,45738.59,contract,Unknown,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Lancing, West Sussex",Trade & Construction Jobs,42666.98,42666.98,42666.98,contract,Unknown,GBP
+Carpenter (Self-Employed),MyJobQuote,"Louth, Lincolnshire",Trade & Construction Jobs,54511.87,54511.87,54511.87,contract,Unknown,GBP
+Kitchen Fitter (Self-Employed),MyJobQuote,"Buckingham, Buckinghamshire",Trade & Construction Jobs,42397.12,42397.12,42397.12,contract,Unknown,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Bridgend, Bridgend County",Trade & Construction Jobs,43005.43,43005.43,43005.43,contract,Unknown,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Lincolnshire, East Midlands",Trade & Construction Jobs,41208.82,41208.82,41208.82,contract,Unknown,GBP
+"SEN / SEND Tutor, Berkshire",Targeted Provision Ltd,"Woosehill, Wokingham",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+Customer Service Advisor,EE,"Walkerville, Newcastle Upon Tyne",Social work Jobs,25087.0,25087.0,25087.0,permanent,full_time,GBP
+Floor Fitter (Self-Employed),MyJobQuote,"Wiltshire, South West England",Trade & Construction Jobs,41145.12,41145.12,41145.12,contract,Unknown,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Worksop, Nottinghamshire",Trade & Construction Jobs,40608.49,40608.49,40608.49,contract,Unknown,GBP
+Theatre Scrub Nurse/ODP - Orthopaedics/Spinal,Ramsay Health Care,"Awbridge, Romsey",Healthcare & Nursing Jobs,54083.06,54083.06,54083.06,Unknown,full_time,GBP
+Decorator (Self-Employed),MyJobQuote,"Shrewsbury, Shropshire",Trade & Construction Jobs,41926.08,41926.08,41926.08,contract,Unknown,GBP
+Carpenter (Self-Employed),MyJobQuote,"East Midlands, UK",Trade & Construction Jobs,55000.32,55000.32,55000.32,contract,Unknown,GBP
+Builder (Self-Employed),MyJobQuote,"Stanley, Ilkeston",Trade & Construction Jobs,35983.13,35983.13,35983.13,contract,Unknown,GBP
+Decorator (Self-Employed),MyJobQuote,"Wigan, Greater Manchester",Trade & Construction Jobs,43173.71,43173.71,43173.71,contract,Unknown,GBP
+Kitchen Fitter (Self-Employed),MyJobQuote,"Fieldhead Business Centre, Bradford",Trade & Construction Jobs,45825.39,45825.39,45825.39,contract,Unknown,GBP
+Builder (Self-Employed),MyJobQuote,"Bridgend, Bridgend County",Trade & Construction Jobs,42263.94,42263.94,42263.94,contract,Unknown,GBP
+Construction Manager,HAYS,"Cambridge, Cambridgeshire",Trade & Construction Jobs,51972.5,51972.5,51972.5,permanent,full_time,GBP
+Decorator (Self-Employed),MyJobQuote,"West Sussex, South East England",Trade & Construction Jobs,46917.39,46917.39,46917.39,contract,Unknown,GBP
+Tiler (Self-Employed),MyJobQuote,"Ellesmere Port, Cheshire",Trade & Construction Jobs,60360.09,60360.09,60360.09,contract,Unknown,GBP
+Decorator (Self-Employed),MyJobQuote,"West Berkshire, South East England",Trade & Construction Jobs,47047.55,47047.55,47047.55,contract,Unknown,GBP
+Sales Associate - Uncapped Commission,EE,"Spital Tongues, Newcastle Upon Tyne",Sales Jobs,13379.0,13379.0,13379.0,Unknown,part_time,GBP
+Bathroom Fitter (Self-Employed),MyJobQuote,"Hartlepool, County Durham",Trade & Construction Jobs,46770.41,46770.41,46770.41,contract,Unknown,GBP
+Sales Advisor - Uncapped Commission,EE,"Maritime Quarter, Swansea",Sales Jobs,25087.0,25087.0,25087.0,permanent,full_time,GBP
+Trainee Certified Ethical Hacker,Newto Training,UK,IT Jobs,25000.0,50000.0,37500.0,permanent,full_time,GBP
+Mobile Vehicle Technician - Stratford,RAC,"Stratford, East London",Engineering Jobs,25000.0,57000.0,41000.0,Unknown,full_time,GBP
+Category Manager - Foodservice and Convenience,KP Snacks,"Chalvey, Slough",Retail Jobs,55511.69,55511.69,55511.69,Unknown,Unknown,GBP
+Bathroom Fitter (Self-Employed),MyJobQuote,"Huntingdon, Cambridgeshire",Trade & Construction Jobs,41455.65,41455.65,41455.65,contract,Unknown,GBP
+Floor Fitter (Self-Employed),MyJobQuote,"Plymouth, South West England",Trade & Construction Jobs,41143.68,41143.68,41143.68,contract,Unknown,GBP
+Bathroom Fitter (Self-Employed),MyJobQuote,"Suffolk, Eastern England",Trade & Construction Jobs,41638.79,41638.79,41638.79,contract,Unknown,GBP
+Floor Fitter (Self-Employed),MyJobQuote,"Elstow, Bedford",Trade & Construction Jobs,42012.62,42012.62,42012.62,contract,Unknown,GBP
+Builder (Self-Employed),MyJobQuote,"Ladywood, Birmingham",Trade & Construction Jobs,47907.21,47907.21,47907.21,contract,Unknown,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Kidderminster, Worcestershire",Trade & Construction Jobs,42095.56,42095.56,42095.56,contract,Unknown,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Stroud, Gloucestershire",Trade & Construction Jobs,45771.49,45771.49,45771.49,contract,Unknown,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Kent, South East England",Trade & Construction Jobs,46803.07,46803.07,46803.07,contract,Unknown,GBP
+Treasury,HAYS,"Gatwick, Surrey",Accounting & Finance Jobs,59041.81,59041.81,59041.81,contract,Unknown,GBP
+Kitchen Fitter (Self-Employed),MyJobQuote,"Rochdale, Greater Manchester",Trade & Construction Jobs,39587.64,39587.64,39587.64,contract,Unknown,GBP
+Teaching and Learning Assistant,Witherslack Group,"Wheatley, Oxford",Teaching Jobs,24518.67,24518.67,24518.67,contract,full_time,GBP
+Market Research Interviewer - Car Required - Part Time,Ipsos,"Blairmore, Nairn",Part time Jobs,14.0,14.0,14.0,Unknown,part_time,GBP
+Builder (Self-Employed),MyJobQuote,"Cardiff County, Wales",Trade & Construction Jobs,42088.05,42088.05,42088.05,contract,Unknown,GBP
+Audit Senior,HAYS,"Lancaster, Lancashire",Accounting & Finance Jobs,44647.84,44647.84,44647.84,Unknown,Unknown,GBP
+Carpenter (Self-Employed),MyJobQuote,"Isle Of Anglesey, Wales",Trade & Construction Jobs,58886.66,58886.66,58886.66,contract,Unknown,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Woodbridge, Suffolk",Trade & Construction Jobs,44375.73,44375.73,44375.73,contract,Unknown,GBP
+Amazon Flex Delivery Driver - Earn £14 - £18 per hour*,Amazon Flex,"Ruscombe, Reading",Logistics & Warehouse Jobs,14.0,18.0,16.0,Unknown,Unknown,GBP
+Floor Fitter (Self-Employed),MyJobQuote,"Carmarthenshire, Wales",Trade & Construction Jobs,45477.75,45477.75,45477.75,contract,Unknown,GBP
+Management Accountant,HAYS,"Chippenham, Wiltshire",Accounting & Finance Jobs,53081.18,53081.18,53081.18,permanent,full_time,GBP
+Carpenter (Self-Employed),MyJobQuote,"Cambridge, Cambridgeshire",Trade & Construction Jobs,55862.62,55862.62,55862.62,contract,Unknown,GBP
+Kitchen Fitter (Self-Employed),MyJobQuote,"County Antrim, Northern Ireland",Trade & Construction Jobs,40876.59,40876.59,40876.59,contract,Unknown,GBP
+Kitchen Fitter (Self-Employed),MyJobQuote,"Scottish Borders, Scotland",Trade & Construction Jobs,44403.93,44403.93,44403.93,contract,Unknown,GBP
+Decorator (Self-Employed),MyJobQuote,"Poole, Dorset",Trade & Construction Jobs,40466.42,40466.42,40466.42,contract,Unknown,GBP
+Builder (Self-Employed),MyJobQuote,"Welwyn Garden City, Hertfordshire",Trade & Construction Jobs,42609.32,42609.32,42609.32,contract,Unknown,GBP
+Roadside Vehicle Mechanic,RAC,"Rodbourne Cheney, Swindon",Engineering Jobs,42609.32,61000.0,51804.66,Unknown,full_time,GBP
+Roadside Technician - Bromley,RAC,"Bromley, South East London",Engineering Jobs,42609.32,66000.0,54304.66,Unknown,full_time,GBP
+Retail Shift Manager,Lidl GB,"Chequers Centre, Maidstone",Retail Jobs,46925.17,46925.17,46925.17,Unknown,full_time,GBP
+Handyman (Self-Employed),MyJobQuote,"Richmond, West London",Trade & Construction Jobs,47456.76,47456.76,47456.76,contract,Unknown,GBP
+Tiler (Self-Employed),MyJobQuote,"Doncaster, South Yorkshire",Trade & Construction Jobs,50596.68,50596.68,50596.68,contract,Unknown,GBP
+Site Manager (Co. Antrim),HAYS,"Antrim, County Antrim",Trade & Construction Jobs,46849.6,46849.6,46849.6,permanent,full_time,GBP
+Mobile Vehicle Technician - Coventry,RAC,"Old Town, Stratford-Upon-Avon",Engineering Jobs,46849.6,52000.0,49424.8,Unknown,full_time,GBP
+Mobile Mechanic,RAC,"North Mymms, Hatfield",Engineering Jobs,46849.6,52000.0,49424.8,Unknown,full_time,GBP
+Kitchen Fitter (Self-Employed),MyJobQuote,"Wolverhampton, West Midlands",Trade & Construction Jobs,44493.71,44493.71,44493.71,contract,Unknown,GBP
+Builder (Self-Employed),MyJobQuote,"St. Neots, Cambridgeshire",Trade & Construction Jobs,42813.47,42813.47,42813.47,contract,Unknown,GBP
+Decorator (Self-Employed),MyJobQuote,"Cannock, Staffordshire",Trade & Construction Jobs,37223.46,37223.46,37223.46,contract,Unknown,GBP
+Accounts Senior / Semi Senior,HAYS,"Preston, Lancashire",Accounting & Finance Jobs,30836.21,30836.21,30836.21,Unknown,Unknown,GBP
+Handyman (Self-Employed),MyJobQuote,"Paisley, Renfrewshire",Trade & Construction Jobs,45892.87,45892.87,45892.87,contract,Unknown,GBP
+Bathroom Fitter (Self-Employed),MyJobQuote,"Bicester, Oxfordshire",Trade & Construction Jobs,46520.23,46520.23,46520.23,contract,Unknown,GBP
+Bathroom Fitter (Self-Employed),MyJobQuote,"Salford, Greater Manchester",Trade & Construction Jobs,45462.44,45462.44,45462.44,contract,Unknown,GBP
+Decorator (Self-Employed),MyJobQuote,"Ealing, West London",Trade & Construction Jobs,47543.01,47543.01,47543.01,contract,Unknown,GBP
+Builder (Self-Employed),MyJobQuote,"Cheltenham Trade Park, Cheltenham",Trade & Construction Jobs,48313.17,48313.17,48313.17,contract,Unknown,GBP
+Mobile Vehicle Technician,RAC,"Wymington, Rushden",Engineering Jobs,48313.17,52000.0,50156.585,Unknown,full_time,GBP
+Builder (Self-Employed),MyJobQuote,"Moray, Scotland",Trade & Construction Jobs,46847.06,46847.06,46847.06,contract,Unknown,GBP
+Decorator (Self-Employed),MyJobQuote,"Feltham, London",Trade & Construction Jobs,45909.2,45909.2,45909.2,contract,Unknown,GBP
+Decorator (Self-Employed),MyJobQuote,"Isle Of Anglesey, Wales",Trade & Construction Jobs,44302.79,44302.79,44302.79,contract,Unknown,GBP
+Remote working Tax Advisor - Written Consultancy Work,HAYS,"Leicestershire, East Midlands",Accounting & Finance Jobs,39623.6,39623.6,39623.6,Unknown,Unknown,GBP
+Carpenter (Self-Employed),MyJobQuote,"East Grinstead, West Sussex",Trade & Construction Jobs,46786.91,46786.91,46786.91,contract,Unknown,GBP
+Service Engineer,NG Bailey,"Cardiff County, Wales",Engineering Jobs,44774.22,44774.22,44774.22,permanent,full_time,GBP
+Decorator (Self-Employed),MyJobQuote,"South East England, UK",Trade & Construction Jobs,44510.22,44510.22,44510.22,contract,Unknown,GBP
+Handyman (Self-Employed),MyJobQuote,"Yarlet, Stafford",Trade & Construction Jobs,41913.29,41913.29,41913.29,contract,Unknown,GBP
+Builder (Self-Employed),MyJobQuote,"Inverness, Highland",Trade & Construction Jobs,43352.03,43352.03,43352.03,contract,Unknown,GBP
+Decorator (Self-Employed),MyJobQuote,"Marlow, Buckinghamshire",Trade & Construction Jobs,48760.82,48760.82,48760.82,contract,Unknown,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Gillingham, Kent",Trade & Construction Jobs,44973.86,44973.86,44973.86,contract,Unknown,GBP
+Kitchen Fitter (Self-Employed),MyJobQuote,"County Tyrone, Northern Ireland",Trade & Construction Jobs,43230.15,43230.15,43230.15,contract,Unknown,GBP
+Electrical & Instrumentation Technician,Johnson Matthey,"Royston, Hertfordshire",Engineering Jobs,41271.24,41271.24,41271.24,Unknown,Unknown,GBP
+Financial Consultant – Cashflow,HAYS,"London, UK",IT Jobs,59305.4,59305.4,59305.4,Unknown,Unknown,GBP
+Floor Fitter (Self-Employed),MyJobQuote,"Chelmsford, Essex",Trade & Construction Jobs,44311.07,44311.07,44311.07,contract,Unknown,GBP
+Kitchen Fitter (Self-Employed),MyJobQuote,"Manchester Science Park, Manchester",Trade & Construction Jobs,45845.5,45845.5,45845.5,contract,Unknown,GBP
+Carpenter (Self-Employed),MyJobQuote,"Cannock, Staffordshire",Trade & Construction Jobs,50354.55,50354.55,50354.55,contract,Unknown,GBP
+Carpenter (Self-Employed),MyJobQuote,"Hertfordshire, Eastern England",Trade & Construction Jobs,56455.93,56455.93,56455.93,contract,Unknown,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Telford, Shropshire",Trade & Construction Jobs,39681.72,39681.72,39681.72,contract,Unknown,GBP
+Kitchen Fitter (Self-Employed),MyJobQuote,"Waltham Cross, Hertfordshire",Trade & Construction Jobs,41797.53,41797.53,41797.53,contract,Unknown,GBP
+Floor Fitter (Self-Employed),MyJobQuote,"South West England, UK",Trade & Construction Jobs,44352.04,44352.04,44352.04,contract,Unknown,GBP
+Handyman (Self-Employed),MyJobQuote,"Elstow, Bedford",Trade & Construction Jobs,38983.37,38983.37,38983.37,contract,Unknown,GBP
+Carpenter (Self-Employed),MyJobQuote,"Cheshire, North West England",Trade & Construction Jobs,46116.93,46116.93,46116.93,contract,Unknown,GBP
+Builder (Self-Employed),MyJobQuote,"Northampton, Northamptonshire",Trade & Construction Jobs,44482.46,44482.46,44482.46,contract,Unknown,GBP
+Compliance Manager - Housing Maintenance,HAYS,"Northamptonshire, East Midlands",Trade & Construction Jobs,58451.97,58451.97,58451.97,contract,Unknown,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Chesterton, Cambridge",Trade & Construction Jobs,36843.9,36843.9,36843.9,contract,Unknown,GBP
+Handyman (Self-Employed),MyJobQuote,"City, Cowbridge",Trade & Construction Jobs,46993.33,46993.33,46993.33,contract,Unknown,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Ilford, Essex",Trade & Construction Jobs,42129.29,42129.29,42129.29,contract,Unknown,GBP
+Bathroom Fitter (Self-Employed),MyJobQuote,"Market Harborough, Leicestershire",Trade & Construction Jobs,42491.64,42491.64,42491.64,contract,Unknown,GBP
+Intervention Tutor,Targeted Provision Ltd,"Hilperton Marsh, Trowbridge",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+Associate Head Teacher,Witherslack Group,"Hildenborough, Tonbridge",Teaching Jobs,56021.39,56021.39,56021.39,Unknown,full_time,GBP
+Handyman (Self-Employed),MyJobQuote,"Powys, Wales",Trade & Construction Jobs,41816.95,41816.95,41816.95,contract,Unknown,GBP
+Floor Fitter (Self-Employed),MyJobQuote,"West Lothian, Scotland",Trade & Construction Jobs,40375.71,40375.71,40375.71,contract,Unknown,GBP
+Roadside Rescue Mechanic,RAC,"Newland, Malvern",Engineering Jobs,40375.71,61000.0,50687.854999999996,Unknown,full_time,GBP
+Floor Fitter (Self-Employed),MyJobQuote,"Eastbourne, East Sussex",Trade & Construction Jobs,38366.73,38366.73,38366.73,contract,Unknown,GBP
+Bathroom Fitter (Self-Employed),MyJobQuote,"Covent Garden, Central London",Trade & Construction Jobs,46963.41,46963.41,46963.41,contract,Unknown,GBP
+Mobile Vehicle Technician,RAC,"Ash Vale, Aldershot",Engineering Jobs,46963.41,52000.0,49481.705,Unknown,full_time,GBP
+Group Financial Controller,HAYS,"Bristol, South West England",Accounting & Finance Jobs,92888.63,92888.63,92888.63,permanent,Unknown,GBP
+Compliance Officer,HAYS,"London, UK",IT Jobs,42025.04,42025.04,42025.04,contract,Unknown,GBP
+Carpenter (Self-Employed),MyJobQuote,"Truro, Cornwall",Trade & Construction Jobs,48296.77,48296.77,48296.77,contract,Unknown,GBP
+SLD Tutor,Targeted Provision Ltd,"Kingsland, Shrewsbury",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Chesterton, Cambridge",Trade & Construction Jobs,41735.59,41735.59,41735.59,contract,Unknown,GBP
+"SEN / SEND Tutor, Tyne and Wear",Targeted Provision Ltd,"Chirton, North Shields",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+Credit Controller,HAYS,"Huddersfield, West Yorkshire",Accounting & Finance Jobs,31127.18,31127.18,31127.18,contract,Unknown,GBP
+Bathroom Fitter (Self-Employed),MyJobQuote,"Cheadle, Greater Manchester",Trade & Construction Jobs,45921.77,45921.77,45921.77,contract,Unknown,GBP
+Floor Fitter (Self-Employed),MyJobQuote,"Sevenoaks, Kent",Trade & Construction Jobs,41041.86,41041.86,41041.86,contract,Unknown,GBP
+Carpenter (Self-Employed),MyJobQuote,"Leeds, West Yorkshire",Trade & Construction Jobs,46354.95,46354.95,46354.95,contract,Unknown,GBP
+Handyman (Self-Employed),MyJobQuote,"Rochdale, Greater Manchester",Trade & Construction Jobs,45890.99,45890.99,45890.99,contract,Unknown,GBP
+Finance Manager,Meridian Business Support,"East Coker, Yeovil",Accounting & Finance Jobs,50000.0,50000.0,50000.0,permanent,Unknown,GBP
+Estates Compliance Manager (M&E),HAYS,"Armagh, Northern Ireland",Trade & Construction Jobs,39850.14,39850.14,39850.14,contract,Unknown,GBP
+Mobile Mechanic,RAC,"Claremont Park, Esher",Engineering Jobs,39850.14,57000.0,48425.07,Unknown,full_time,GBP
+Builder (Self-Employed),MyJobQuote,"Solihull, West Midlands",Trade & Construction Jobs,46031.07,46031.07,46031.07,contract,Unknown,GBP
+Mobile Engineer,The Sales Recruitment Network,"Edinburgh, Scotland",Engineering Jobs,35000.0,35000.0,35000.0,permanent,Unknown,GBP
+Accounts & Audit Semi-Senior,HAYS,"South West London, London",Accounting & Finance Jobs,31291.65,31291.65,31291.65,Unknown,Unknown,GBP
+"SEN / SEND Tutor, East Yorkshire",Targeted Provision Ltd,"Broadgate, Walkington",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+Floor Fitter (Self-Employed),MyJobQuote,"Sutton Coldfield, West Midlands",Trade & Construction Jobs,44967.86,44967.86,44967.86,contract,Unknown,GBP
+Decorator (Self-Employed),MyJobQuote,"Aldershot, Hampshire",Trade & Construction Jobs,45355.56,45355.56,45355.56,contract,Unknown,GBP
+Decorator (Self-Employed),MyJobQuote,"Deeside, Flintshire",Trade & Construction Jobs,43280.93,43280.93,43280.93,contract,Unknown,GBP
+Decorator (Self-Employed),MyJobQuote,"Monument, Central London",Trade & Construction Jobs,45921.63,45921.63,45921.63,contract,Unknown,GBP
+Accounts and Audit Senior,Edwards & Pearce Limited,"East Butterwick, Scunthorpe",Accounting & Finance Jobs,50000.0,50000.0,50000.0,permanent,part_time,GBP
+Bathroom Fitter (Self-Employed),MyJobQuote,"Sittingbourne, Kent",Trade & Construction Jobs,46139.02,46139.02,46139.02,contract,Unknown,GBP
+Senior Building Surveyor,HAYS,"Essex, Eastern England",Trade & Construction Jobs,48401.49,48401.49,48401.49,Unknown,Unknown,GBP
+"SEN / SEND Tutor, Cheshire",Targeted Provision Ltd,"Buckley, Flintshire",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+Special Education Needs Tutor,Targeted Provision Ltd,"Low Hill, Liverpool",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+Tiler (Self-Employed),MyJobQuote,"Derbyshire, East Midlands",Trade & Construction Jobs,50421.73,50421.73,50421.73,contract,Unknown,GBP
+Decorator (Self-Employed),MyJobQuote,"Healey, Rochdale",Trade & Construction Jobs,32588.67,32588.67,32588.67,contract,Unknown,GBP
+Kitchen Fitter (Self-Employed),MyJobQuote,"Hounslow, London",Trade & Construction Jobs,47394.17,47394.17,47394.17,contract,Unknown,GBP
+Delivery Driver - Knowsley,Ocado Logistics,"Swinley, Wigan",Logistics & Warehouse Jobs,12.0,12.0,12.0,permanent,full_time,GBP
+Carpenter (Self-Employed),MyJobQuote,"Ipswich, Suffolk",Trade & Construction Jobs,52832.5,52832.5,52832.5,contract,Unknown,GBP
+Floor Fitter (Self-Employed),MyJobQuote,"Rickmansworth, Hertfordshire",Trade & Construction Jobs,43414.62,43414.62,43414.62,contract,Unknown,GBP
+Project Manager,Arla Foods Limited,UK,IT Jobs,57076.87,57076.87,57076.87,Unknown,part_time,GBP
+Mobile Vehicle Technician,RAC,"Onslow Village, Guildford",Engineering Jobs,57076.87,57000.0,57038.435,Unknown,full_time,GBP
+Handyman (Self-Employed),MyJobQuote,"Sutton, London",Trade & Construction Jobs,42735.31,42735.31,42735.31,contract,Unknown,GBP
+Mobile Mechanic,RAC,"Worsbrough Common, Barnsley",Engineering Jobs,42735.31,52000.0,47367.655,Unknown,full_time,GBP
+Bathroom Fitter (Self-Employed),MyJobQuote,"Enfield, London",Trade & Construction Jobs,45307.06,45307.06,45307.06,contract,Unknown,GBP
+Employment Tax Manager,HAYS,"Glasgow, Scotland",Accounting & Finance Jobs,48346.27,48346.27,48346.27,contract,Unknown,GBP
+Interim Accountant – Recharges,HAYS,"East Midlands, UK",Accounting & Finance Jobs,64625.88,64625.88,64625.88,contract,Unknown,GBP
+Floor Fitter (Self-Employed),MyJobQuote,"Dudley, West Midlands",Trade & Construction Jobs,38105.35,38105.35,38105.35,contract,Unknown,GBP
+Project Manager – M&E,HAYS,"Ealing, West London",Trade & Construction Jobs,61259.71,61259.71,61259.71,contract,Unknown,GBP
+Builder (Self-Employed),MyJobQuote,"Deritend, Birmingham",Trade & Construction Jobs,45169.78,45169.78,45169.78,contract,Unknown,GBP
+Delivery Driver (Part Time 24 hours) - Bristol,Ocado Logistics,"Bayfield, Chepstow",Part time Jobs,13.0,13.0,13.0,permanent,part_time,GBP
+Lead Gas Engineer,Network Plus,"Aylestone, Leicester",Engineering Jobs,44377.68,44377.68,44377.68,Unknown,Unknown,GBP
+Solutions GTM Lead - Cloud Security,"Arrow Electronics, Inc.",UK,Sales Jobs,62543.6,62543.6,62543.6,Unknown,full_time,GBP
+Kitchen Fitter (Self-Employed),MyJobQuote,"Clitheroe, Lancashire",Trade & Construction Jobs,45138.13,45138.13,45138.13,contract,Unknown,GBP
+Builder (Self-Employed),MyJobQuote,"Lancing, West Sussex",Trade & Construction Jobs,48482.01,48482.01,48482.01,contract,Unknown,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Buckingham, Buckinghamshire",Trade & Construction Jobs,41815.11,41815.11,41815.11,contract,Unknown,GBP
+Door to Door Canvasser,Anglian,"Pensarn, Carmarthen","PR, Advertising & Marketing Jobs",27949.52,27949.52,27949.52,contract,part_time,GBP
+Quantity Surveyor,HAYS,"Edinburgh, Scotland",Trade & Construction Jobs,41946.68,41946.68,41946.68,Unknown,Unknown,GBP
+Carpenter (Self-Employed),MyJobQuote,"Penwortham, Preston",Trade & Construction Jobs,42984.72,42984.72,42984.72,contract,Unknown,GBP
+Kitchen Fitter (Self-Employed),MyJobQuote,"Haywards Heath, West Sussex",Trade & Construction Jobs,45739.5,45739.5,45739.5,contract,Unknown,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Dallinghoo, Woodbridge",Trade & Construction Jobs,41668.9,41668.9,41668.9,contract,Unknown,GBP
+Bathroom Fitter (Self-Employed),MyJobQuote,"Burnley, Lancashire",Trade & Construction Jobs,47049.66,47049.66,47049.66,contract,Unknown,GBP
+Carpenter (Self-Employed),MyJobQuote,"Bury, Greater Manchester",Trade & Construction Jobs,53086.75,53086.75,53086.75,contract,Unknown,GBP
+Design Manager (Aluminium Systems),Ernest Gordon Recruitment,"Doncaster, South Yorkshire",Engineering Jobs,60000.0,60000.0,60000.0,permanent,Unknown,GBP
+Floor Fitter (Self-Employed),MyJobQuote,"Spalding, Lincolnshire",Trade & Construction Jobs,41385.97,41385.97,41385.97,contract,Unknown,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Ealing, West London",Trade & Construction Jobs,46054.52,46054.52,46054.52,contract,Unknown,GBP
+Builder (Self-Employed),MyJobQuote,"East Lothian, Scotland",Trade & Construction Jobs,48969.23,48969.23,48969.23,contract,Unknown,GBP
+"Senior Accountant (3, 4 or 5 days)",HAYS,"Borehamwood, Hertfordshire",Accounting & Finance Jobs,41794.11,41794.11,41794.11,Unknown,part_time,GBP
+Carpenter (Self-Employed),MyJobQuote,"Caversham, Reading",Trade & Construction Jobs,46413.16,46413.16,46413.16,contract,Unknown,GBP
+Finance Admin Clerk,HAYS,"Bristol, South West England",Accounting & Finance Jobs,27392.41,27392.41,27392.41,Unknown,Unknown,GBP
+Bathroom Fitter (Self-Employed),MyJobQuote,"Richmond, West London",Trade & Construction Jobs,49177.62,49177.62,49177.62,contract,Unknown,GBP
+Handyman (Self-Employed),MyJobQuote,"Falkirk County, Scotland",Trade & Construction Jobs,47677.09,47677.09,47677.09,contract,Unknown,GBP
+Floor Fitter (Self-Employed),MyJobQuote,"Bermuda Park, Nuneaton",Trade & Construction Jobs,46650.4,46650.4,46650.4,contract,Unknown,GBP
+Bathroom Fitter (Self-Employed),MyJobQuote,"Buckinghamshire, South East England",Trade & Construction Jobs,45720.49,45720.49,45720.49,contract,Unknown,GBP
+Builder (Self-Employed),MyJobQuote,"Pontefract, West Yorkshire",Trade & Construction Jobs,45580.52,45580.52,45580.52,contract,Unknown,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Barnsley, South Yorkshire",Trade & Construction Jobs,43887.9,43887.9,43887.9,contract,Unknown,GBP
+Mobile Engineer,CBW Staffing Solutions Ltd,"Cheltenham, Gloucestershire",Engineering Jobs,45000.0,45000.0,45000.0,permanent,Unknown,GBP
+Bathroom Fitter (Self-Employed),MyJobQuote,"Cheltenham Trade Park, Cheltenham",Trade & Construction Jobs,46788.74,46788.74,46788.74,contract,Unknown,GBP
+Site Engineer (Residential - NI Based),HAYS,"County Tyrone, Northern Ireland",Trade & Construction Jobs,44324.26,44324.26,44324.26,Unknown,Unknown,GBP
+Carpenter (Self-Employed),MyJobQuote,"Falkirk, Falkirk County",Trade & Construction Jobs,51634.04,51634.04,51634.04,contract,Unknown,GBP
+"SEN / SEND Tutor, West Midlands",Targeted Provision Ltd,"Ladywood, Birmingham",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+Diesel Fitter,Bennett and Game,"Bothwell, South Lanarkshire",Engineering Jobs,33529.0,35214.0,34371.5,permanent,full_time,GBP
+Principal Civil Engineer,Penguin Recruitment Ltd,"Fareham, Hampshire",Engineering Jobs,65000.0,65000.0,65000.0,permanent,Unknown,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"West Yorkshire, Yorkshire And The Humber",Trade & Construction Jobs,40545.69,40545.69,40545.69,contract,Unknown,GBP
+Decorator (Self-Employed),MyJobQuote,"Abingdon, Oxfordshire",Trade & Construction Jobs,44519.39,44519.39,44519.39,contract,Unknown,GBP
+SLD Tutor,Targeted Provision Ltd,"Kingsham, Chichester",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Milton Bridge, Penicuik",Trade & Construction Jobs,43286.18,43286.18,43286.18,contract,Unknown,GBP
+SEN Teacher,Targeted Provision Ltd,"Canwick, Lincoln",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+Mobile Vehicle Technician,RAC,"Stratford, East London",Engineering Jobs,58240.0,57000.0,57620.0,Unknown,full_time,GBP
+Motoring Instructor (Driving Licence Required),My Four Wheels,"Heaton Chapel, Stockport",Teaching Jobs,42792.98,42792.98,42792.98,Unknown,full_time,GBP
+Dual Fuel Engineer,Gas,"Barnstaple, Devon",Engineering Jobs,55000.0,55000.0,55000.0,permanent,Unknown,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Thatcham, West Berkshire",Trade & Construction Jobs,49716.34,49716.34,49716.34,contract,Unknown,GBP
+HV / LV / EHV Jointer - Register your interest,NG Bailey,"York, North Yorkshire",Engineering Jobs,58090.37,58090.37,58090.37,permanent,full_time,GBP
+Part-Time Sales Advisor,Breeze House Designs,"Penrith, Cumbria",Part time Jobs,28000.0,28000.0,28000.0,permanent,part_time,GBP
+Customer Team Member,Co-op,"Broadford, Isle Of Skye",Retail Jobs,12.0,12.0,12.0,contract,part_time,GBP
+Electrician (Self-Employed),MyJobQuote,"Ash Vale, Aldershot",Trade & Construction Jobs,42854.97,42854.97,42854.97,contract,Unknown,GBP
+Field Service Engineer,Coalesce Recruitment Limited,"Rotherham, South Yorkshire",Engineering Jobs,30000.0,30000.0,30000.0,permanent,Unknown,GBP
+Commercial Gas Engineer,Bennett and Game,"Maidstone, Kent",Engineering Jobs,50000.0,50000.0,50000.0,permanent,Unknown,GBP
+Kitchen Fitter (Self-Employed),MyJobQuote,"Heeley, Sheffield",Trade & Construction Jobs,51982.46,51982.46,51982.46,contract,Unknown,GBP
+Kitchen Fitter (Self-Employed),MyJobQuote,"Conwy County, Wales",Trade & Construction Jobs,42285.35,42285.35,42285.35,contract,Unknown,GBP
+Builder (Self-Employed),MyJobQuote,"Lisburn, Northern Ireland",Trade & Construction Jobs,43130.09,43130.09,43130.09,contract,Unknown,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Basildon, Essex",Trade & Construction Jobs,42368.38,42368.38,42368.38,contract,Unknown,GBP
+Head of Finance (Interior Design),HAYS,"London, UK",Accounting & Finance Jobs,57169.2,57169.2,57169.2,Unknown,Unknown,GBP
+Handyman (Self-Employed),MyJobQuote,"Morpeth, Northumberland",Trade & Construction Jobs,37664.39,37664.39,37664.39,contract,Unknown,GBP
+Senior Finance Manager - Technical Accounting,HAYS,"Maidenhead, Windsor & Maidenhead",Accounting & Finance Jobs,58235.03,58235.03,58235.03,Unknown,Unknown,GBP
+Carpenter (Self-Employed),MyJobQuote,"Leatherhead, Surrey",Trade & Construction Jobs,56873.21,56873.21,56873.21,contract,Unknown,GBP
+Decorator (Self-Employed),MyJobQuote,"Woodside, Aberdeen",Trade & Construction Jobs,45534.38,45534.38,45534.38,contract,Unknown,GBP
+Builder (Self-Employed),MyJobQuote,"Witney, Oxfordshire",Trade & Construction Jobs,48916.71,48916.71,48916.71,contract,Unknown,GBP
+Handyman (Self-Employed),MyJobQuote,"Tunbridge Wells, Kent",Trade & Construction Jobs,42508.17,42508.17,42508.17,contract,Unknown,GBP
+HGV Class 2 Home Delivery Driver,Turbo Driving Recruitment Limited,UK,Logistics & Warehouse Jobs,33280.0,49920.0,41600.0,contract,Unknown,GBP
+Carpenter (Self-Employed),MyJobQuote,"Bournemouth, Dorset",Trade & Construction Jobs,47963.67,47963.67,47963.67,contract,Unknown,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Grays, Essex",Trade & Construction Jobs,42134.56,42134.56,42134.56,contract,Unknown,GBP
+Management Accountant,HAYS,"Birmingham, West Midlands",Accounting & Finance Jobs,38291.14,38291.14,38291.14,Unknown,Unknown,GBP
+Mechanical Estimator / Cost Engineer,Mactech Energy Group,"Hallatrow, Bristol",Trade & Construction Jobs,55000.0,55000.0,55000.0,permanent,Unknown,GBP
+Bathroom Fitter (Self-Employed),MyJobQuote,"Cheltenham, Gloucestershire",Trade & Construction Jobs,47588.78,47588.78,47588.78,contract,Unknown,GBP
+Shift Engineer,Valeo Foods UK,"Blackburn, Lancashire",Engineering Jobs,37148.35,37148.35,37148.35,permanent,Unknown,GBP
+Approved Mental Health Professional,Charles Hunter Associates,"Little London, Rodborough",Healthcare & Nursing Jobs,37148.35,83200.0,60174.175,Unknown,Unknown,GBP
+Floor Fitter (Self-Employed),MyJobQuote,"Gillingham, Kent",Trade & Construction Jobs,40455.19,40455.19,40455.19,contract,Unknown,GBP
+Learning Support Assistant,Sense Learning Limited,"Haywards Heath, West Sussex",Teaching Jobs,37440.0,47840.0,42640.0,permanent,part_time,GBP
+Carpenter (Self-Employed),MyJobQuote,"Rhondda Cynon Taff, Wales",Trade & Construction Jobs,54476.73,54476.73,54476.73,contract,Unknown,GBP
+??Working Electrical Supervisor,CBW Staffing Solutions Ltd,"Sunbury-On-Thames, Surrey",Maintenance Jobs,50000.0,50000.0,50000.0,permanent,Unknown,GBP
+Specialist Teacher,Sense Learning Limited,"Horsham, West Sussex",Teaching Jobs,72800.0,93600.0,83200.0,permanent,part_time,GBP
+Handyman (Self-Employed),MyJobQuote,"Hanworth, Feltham",Trade & Construction Jobs,41615.25,41615.25,41615.25,contract,Unknown,GBP
+Casual Driver,Gregory,"Holytown, Motherwell",Logistics & Warehouse Jobs,46800.0,52520.0,49660.0,contract,full_time,GBP
+Kitchen Fitter (Self-Employed),MyJobQuote,"Blaenau Gwent, Wales",Trade & Construction Jobs,41931.68,41931.68,41931.68,contract,Unknown,GBP
+SharePoint developer,HAYS,"Glasgow, Scotland",IT Jobs,50069.48,50069.48,50069.48,contract,Unknown,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Humberstone, Leicester",Trade & Construction Jobs,37392.14,37392.14,37392.14,contract,Unknown,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Stafford, Staffordshire",Trade & Construction Jobs,40723.29,40723.29,40723.29,contract,Unknown,GBP
+Cook,Enable Scotland,"Ardeer, Stevenston",Social work Jobs,26208.0,26208.0,26208.0,permanent,part_time,GBP
+Handyman (Self-Employed),MyJobQuote,"Corby, Northamptonshire",Trade & Construction Jobs,43367.16,43367.16,43367.16,contract,Unknown,GBP
+Mobile Vehicle Technician,RAC,"Pillaton, Saltash",Engineering Jobs,48380.07,48380.07,48380.07,Unknown,full_time,GBP
+Systems Accountant - Pharmaceutical,HAYS,"London, UK",Accounting & Finance Jobs,55862.3,55862.3,55862.3,Unknown,Unknown,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Essex, Eastern England",Trade & Construction Jobs,41249.99,41249.99,41249.99,contract,Unknown,GBP
+Decorator (Self-Employed),MyJobQuote,"Barnsley, South Yorkshire",Trade & Construction Jobs,45262.71,45262.71,45262.71,contract,Unknown,GBP
+Carpenter (Self-Employed),MyJobQuote,"Trowbridge, Wiltshire",Trade & Construction Jobs,49836.15,49836.15,49836.15,contract,Unknown,GBP
+Tiler (Self-Employed),MyJobQuote,"Inverclyde, Scotland",Trade & Construction Jobs,52314.38,52314.38,52314.38,contract,Unknown,GBP
+Senior Building Surveyor Director Track,Kamro Limited T/A Tenex,"Bristol, South West England",Trade & Construction Jobs,62535.13,62535.13,62535.13,permanent,Unknown,GBP
+SEN Tutor,Spark Academy,"Worcester, Worcestershire",Teaching Jobs,40000.0,40000.0,40000.0,contract,Unknown,GBP
+Construction Plant Mechanic,AG Wilson Civil Engineering,"Armagh, Northern Ireland",Engineering Jobs,34242.0,34242.0,34242.0,permanent,full_time,GBP
+Carpenter (Self-Employed),MyJobQuote,"South West England, UK",Trade & Construction Jobs,47835.81,47835.81,47835.81,contract,Unknown,GBP
+Carpenter (Self-Employed),MyJobQuote,"Leavesden, Watford",Trade & Construction Jobs,46072.36,46072.36,46072.36,contract,Unknown,GBP
+Electrical Controls Engineer,CURE TALENT LIMITED,"Witney, Oxfordshire",Engineering Jobs,55000.0,55000.0,55000.0,permanent,Unknown,GBP
+Home Manager,Leaders In Care Recruitment Ltd,"Hintlesham, Ipswich",Healthcare & Nursing Jobs,75000.0,75000.0,75000.0,permanent,Unknown,GBP
+Handyman (Self-Employed),MyJobQuote,"Sunderland, Tyne & Wear",Trade & Construction Jobs,45826.88,45826.88,45826.88,contract,Unknown,GBP
+Carpenter (Self-Employed),MyJobQuote,"Manchester Science Park, Manchester",Trade & Construction Jobs,55629.23,55629.23,55629.23,contract,Unknown,GBP
+Builder (Self-Employed),MyJobQuote,"Grangetown, Cardiff",Trade & Construction Jobs,43525.11,43525.11,43525.11,contract,Unknown,GBP
+Powered Access Engineer,Neos Recruitment Limited,"Forest Fields, Nottingham",Engineering Jobs,45000.0,45000.0,45000.0,permanent,Unknown,GBP
+Electrician (Self-Employed),MyJobQuote,"Prescot, Merseyside",Trade & Construction Jobs,55888.09,55888.09,55888.09,contract,Unknown,GBP
+Assistant Multiskilled Maintenance Engineer,Cotteswold Dairy Ltd,"Walton Cardiff, Tewkesbury",Engineering Jobs,35000.0,35000.0,35000.0,permanent,Unknown,GBP
+Senior Town Planner Associate Town Planner,Penguin Recruitment Ltd,"Normanton, West Yorkshire",Trade & Construction Jobs,55000.0,55000.0,55000.0,permanent,Unknown,GBP
+Handyman (Self-Employed),MyJobQuote,"North Yorkshire, Yorkshire And The Humber",Trade & Construction Jobs,46383.83,46383.83,46383.83,contract,Unknown,GBP
+Tiler (Self-Employed),MyJobQuote,"Wakefield, West Yorkshire",Trade & Construction Jobs,48477.57,48477.57,48477.57,contract,Unknown,GBP
+Admin Support Co Ordinator,Shauna Kelly Interiors,"Magherafelt, Northern Ireland",Retail Jobs,34213.66,34213.66,34213.66,Unknown,full_time,GBP
+Van Technician,The Solution Automotive Limited,"Castleford, West Yorkshire",Engineering Jobs,40000.0,40000.0,40000.0,permanent,Unknown,GBP
+Decorator (Self-Employed),MyJobQuote,"Solihull, West Midlands",Trade & Construction Jobs,41618.94,41618.94,41618.94,contract,Unknown,GBP
+Class 2 Moffett Driver,DX Network Services Limited,"Dolphinholme, Lancaster",Logistics & Warehouse Jobs,40000.0,40000.0,40000.0,permanent,Unknown,GBP
+Principal Safety Engineer,Morson Edge,"Dorchester, Dorset",Engineering Jobs,70382.86,70382.86,70382.86,permanent,part_time,GBP
+Physiotherapist,VANRATH,"London, UK",Healthcare & Nursing Jobs,45000.0,45000.0,45000.0,Unknown,Unknown,GBP
+Gopuff Delivery Drivers or Riders - Work when you want!,Gopuff,"Salem, Morriston",Travel Jobs,38401.32,38401.32,38401.32,Unknown,Unknown,GBP
+Commercial Finance Manager,HAYS,"Ipswich, Suffolk",Accounting & Finance Jobs,87896.3,87896.3,87896.3,Unknown,Unknown,GBP
+KS2 Teacher,Ribbons and Reeves Limited,"South Stifford, Grays",Teaching Jobs,50000.0,50000.0,50000.0,permanent,Unknown,GBP
+Accountant,HAYS,"Slough, Berkshire",Accounting & Finance Jobs,36775.34,36775.34,36775.34,Unknown,Unknown,GBP
+Healthcare Science Assistant,MCS Group,"London, UK",Scientific & QA Jobs,23480.0,23480.0,23480.0,Unknown,Unknown,GBP
+MRICS Associate Director - Quantity Surveying - Birmingham,ALDWYCH CONSULTING LTD,"Birmingham, West Midlands",Trade & Construction Jobs,85000.0,85000.0,85000.0,permanent,Unknown,GBP
+Handyman (Self-Employed),MyJobQuote,"South Lanarkshire, Scotland",Trade & Construction Jobs,48701.11,48701.11,48701.11,contract,Unknown,GBP
+Builder (Self-Employed),MyJobQuote,"Chesterton, Cambridge",Trade & Construction Jobs,41116.73,41116.73,41116.73,contract,Unknown,GBP
+Credit Controller,HAYS,"Wythenshawe, Manchester",Accounting & Finance Jobs,23374.11,23374.11,23374.11,Unknown,Unknown,GBP
+Quantity Surveyor,Integral UK Ltd,"Pear Tree, Derby",Trade & Construction Jobs,72631.32,72631.32,72631.32,permanent,Unknown,GBP
+Delivery Driver,Yodel,"Putney Heath, South West London",Logistics & Warehouse Jobs,42186.58,42186.58,42186.58,Unknown,Unknown,GBP
+Senior DataOps Engineer - AWS,Coventry Building Society,"Coventry, West Midlands",IT Jobs,70000.0,70000.0,70000.0,permanent,Unknown,GBP
+Quality Engineer,HAYS Specialist Recruitment,"Dungannon, County Tyrone",Scientific & QA Jobs,40000.0,40000.0,40000.0,permanent,Unknown,GBP
+Carpenter (Self-Employed),MyJobQuote,"Fermanagh, Northern Ireland",Trade & Construction Jobs,49643.28,49643.28,49643.28,contract,Unknown,GBP
+Paid Social Lead,Finisterre,"Blue Hills, St. Agnes","PR, Advertising & Marketing Jobs",50000.0,50000.0,50000.0,permanent,full_time,GBP
+Estimator,HAYS Specialist Recruitment,"Newry, Newry & Mourne",Trade & Construction Jobs,60000.0,60000.0,60000.0,permanent,Unknown,GBP
+Accounts Assistant,Artemis Search & Selection Limited,"Lisburn, Northern Ireland",Accounting & Finance Jobs,30000.0,30000.0,30000.0,permanent,Unknown,GBP
+Kitchen Fitter (Self-Employed),MyJobQuote,"County Durham, North East England",Trade & Construction Jobs,38759.72,38759.72,38759.72,contract,Unknown,GBP
+Handyman (Self-Employed),MyJobQuote,"West Yorkshire, Yorkshire And The Humber",Trade & Construction Jobs,46419.01,46419.01,46419.01,contract,Unknown,GBP
+Financial Accountant,HAYS,"Richmond, West London",Accounting & Finance Jobs,41941.44,41941.44,41941.44,permanent,Unknown,GBP
+Childrens Home Manager,Amegreen Childrens Services Limited,"Reading, Berkshire",Social work Jobs,30000.0,30000.0,30000.0,permanent,Unknown,GBP
+Residential Property Lawyer,Yolk Recruitment Limited,"Upper Milton, Wells",Legal Jobs,55000.0,55000.0,55000.0,permanent,Unknown,GBP
+Handyman (Self-Employed),MyJobQuote,"Rugby, Warwickshire",Trade & Construction Jobs,45222.36,45222.36,45222.36,contract,Unknown,GBP
+Decorator (Self-Employed),MyJobQuote,"East Midlands, UK",Trade & Construction Jobs,41462.61,41462.61,41462.61,contract,Unknown,GBP
+Floor Fitter (Self-Employed),MyJobQuote,"Sunderland, Tyne & Wear",Trade & Construction Jobs,39682.78,39682.78,39682.78,contract,Unknown,GBP
+Senior Capital Project Manager,HAYS,"Belfast, Northern Ireland",Trade & Construction Jobs,61682.62,61682.62,61682.62,contract,Unknown,GBP
+Decorator (Self-Employed),MyJobQuote,"North Yorkshire, Yorkshire And The Humber",Trade & Construction Jobs,40348.96,40348.96,40348.96,contract,Unknown,GBP
+Kitchen Fitter (Self-Employed),MyJobQuote,"Swansea, Wales",Trade & Construction Jobs,41818.43,41818.43,41818.43,contract,Unknown,GBP
+Bathroom Fitter (Self-Employed),MyJobQuote,"Bridgend, Bridgend County",Trade & Construction Jobs,46900.3,46900.3,46900.3,contract,Unknown,GBP
+Builder (Self-Employed),MyJobQuote,"North West England, UK",Trade & Construction Jobs,43439.23,43439.23,43439.23,contract,Unknown,GBP
+Decorator (Self-Employed),MyJobQuote,"Witney, Oxfordshire",Trade & Construction Jobs,45052.76,45052.76,45052.76,contract,Unknown,GBP
+FP&A Manager,HAYS,"London, UK",Accounting & Finance Jobs,53451.04,53451.04,53451.04,Unknown,Unknown,GBP
+Floor Fitter (Self-Employed),MyJobQuote,"East London, London",Trade & Construction Jobs,43306.2,43306.2,43306.2,contract,Unknown,GBP
+Senior Air Conditioning Engineer,CBW Staffing Solutions Ltd,"Holbeck, Leeds",Engineering Jobs,45000.0,45000.0,45000.0,permanent,Unknown,GBP
+Estimator (Construction),Roundhouse Recruitment Limited,"Cookstown, Northern Ireland",Trade & Construction Jobs,40000.0,40000.0,40000.0,permanent,Unknown,GBP
+Mobile Mechanic,RAC,"Harras Moor, Whitehaven",Engineering Jobs,40000.0,52000.0,46000.0,Unknown,full_time,GBP
+Kitchen Fitter (Self-Employed),MyJobQuote,"The Vale of Glamorgan, Wales",Trade & Construction Jobs,45379.14,45379.14,45379.14,contract,Unknown,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Camberley, Surrey",Trade & Construction Jobs,45218.57,45218.57,45218.57,contract,Unknown,GBP
+Kitchen Fitter (Self-Employed),MyJobQuote,"Beeston, Nottingham",Trade & Construction Jobs,42636.84,42636.84,42636.84,contract,Unknown,GBP
+Accounts Payable Administrator,Artemis Search & Selection Limited,"Antrim, County Antrim",Accounting & Finance Jobs,31496.47,31496.47,31496.47,Unknown,Unknown,GBP
+Floor Fitter (Self-Employed),MyJobQuote,"Oakengates, Telford",Trade & Construction Jobs,39098.87,39098.87,39098.87,contract,Unknown,GBP
+Kitchen Fitter (Self-Employed),MyJobQuote,"North Somerset, South West England",Trade & Construction Jobs,43116.64,43116.64,43116.64,contract,Unknown,GBP
+Builder (Self-Employed),MyJobQuote,"Liverpool, Merseyside",Trade & Construction Jobs,43979.58,43979.58,43979.58,contract,Unknown,GBP
+Builder (Self-Employed),MyJobQuote,"Hounslow, London",Trade & Construction Jobs,47864.19,47864.19,47864.19,contract,Unknown,GBP
+Maintenance Engineer,Reactive Recruitment NI,"Craigavon, Northern Ireland",Engineering Jobs,50306.41,50306.41,50306.41,Unknown,Unknown,GBP
+Clinical Lead Nurse,Medgen Ltd,"South East London, London",Healthcare & Nursing Jobs,45000.0,45000.0,45000.0,permanent,Unknown,GBP
+Lower Key Stage 2 Teacher,Witherslack Group,"Mitcham Junction, Mitcham",Teaching Jobs,41209.96,41209.96,41209.96,Unknown,full_time,GBP
+Handyman (Self-Employed),MyJobQuote,"Newquay, Cornwall",Trade & Construction Jobs,45781.27,45781.27,45781.27,contract,Unknown,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Fermanagh, Northern Ireland",Trade & Construction Jobs,43579.89,43579.89,43579.89,contract,Unknown,GBP
+Commercial Gas Engineer,Excel Engineering Recruitment ltd,"Deritend, Birmingham",Engineering Jobs,55000.0,55000.0,55000.0,permanent,Unknown,GBP
+Panel Beater,Pybus Recruitment,"Caversham, Reading",Trade & Construction Jobs,55000.0,55000.0,55000.0,permanent,full_time,GBP
+Nursery Chef,KZAR Childcare Limited,"Hook, Hampshire",Hospitality & Catering Jobs,30000.0,30000.0,30000.0,permanent,Unknown,GBP
+Builder (Self-Employed),MyJobQuote,"Deal, Kent",Trade & Construction Jobs,42637.93,42637.93,42637.93,contract,Unknown,GBP
+Hydraulic Design Engineer,Logan Lewis Recruitment,"Newcastle Upon Tyne, Tyne & Wear",Engineering Jobs,44121.57,44121.57,44121.57,permanent,Unknown,GBP
+"Teacher of History, Saddleworth, Immediate start",HAYS,"Oldham, Greater Manchester",Teaching Jobs,46800.0,60320.0,53560.0,contract,Unknown,GBP
+Electrician (Self-Employed),MyJobQuote,"Winchester, Hampshire",Trade & Construction Jobs,57279.71,57279.71,57279.71,contract,Unknown,GBP
+Bathroom Fitter (Self-Employed),MyJobQuote,"Blackburn, Lancashire",Trade & Construction Jobs,45436.87,45436.87,45436.87,contract,Unknown,GBP
+Floor Fitter (Self-Employed),MyJobQuote,"Fieldhead Business Centre, Bradford",Trade & Construction Jobs,45724.24,45724.24,45724.24,contract,Unknown,GBP
+Electrical Engineer - Building Services,Gem Partnership,"North Ormesby, Middlesbrough",Engineering Jobs,40000.0,40000.0,40000.0,permanent,Unknown,GBP
+Roadside Vehicle Technician,RAC,"Hanworth, Feltham",Engineering Jobs,40000.0,66000.0,53000.0,Unknown,full_time,GBP
+Finance Process Manager,HAYS,"Essex, Eastern England",Accounting & Finance Jobs,58113.53,58113.53,58113.53,Unknown,Unknown,GBP
+Senior Financial Performance Analyst,HAYS Specialist Recruitment,"Belfast, Northern Ireland",Accounting & Finance Jobs,60000.0,60000.0,60000.0,permanent,Unknown,GBP
+Volvo Vehicle Technician,Listers,"Tachbrook Park, Warwick",Engineering Jobs,45000.0,45000.0,45000.0,permanent,Unknown,GBP
+Service Manager (Engineering),Honeycomb Jobs Limited,"Belfast, Northern Ireland",IT Jobs,45000.0,45000.0,45000.0,contract,Unknown,GBP
+SEN Teaching Assistant,Simply Education,"Sleaford, Lincolnshire",Teaching Jobs,21340.0,25209.0,23274.5,contract,part_time,GBP
+Commercial Planning Manager,Premier Foods,"Sandridge, St. Albans",Sales Jobs,51270.68,51270.68,51270.68,permanent,full_time,GBP
+Data Enablement & Delivery Executive,Saga Group,"Sandgate, Folkestone",IT Jobs,35000.0,35000.0,35000.0,permanent,Unknown,GBP
+Floor Fitter (Self-Employed),MyJobQuote,"Merseyside, North West England",Trade & Construction Jobs,43983.1,43983.1,43983.1,contract,Unknown,GBP
+Morning Delivery Driver,Suonal LTD,"Clovenfords, Galashiels",Logistics & Warehouse Jobs,43983.1,28745.0,36364.05,Unknown,part_time,GBP
+Roadside Vehicle Mechanic,RAC,"Harlington, Hayes",Engineering Jobs,43983.1,66000.0,54991.55,Unknown,full_time,GBP
+Vehicle Technician,Halfords,"Pride Park, Derby",Engineering Jobs,30648.0,34345.0,32496.5,Unknown,full_time,GBP
+Cover Supervisor,Destination Education Limited,"Tendring, Clacton-On-Sea",Teaching Jobs,31200.0,31200.0,31200.0,contract,part_time,GBP
+Bathroom Fitter (Self-Employed),MyJobQuote,"Holyport, Maidenhead",Trade & Construction Jobs,50877.27,50877.27,50877.27,contract,Unknown,GBP
+Handyman (Self-Employed),MyJobQuote,"Fieldhead Business Centre, Bradford",Trade & Construction Jobs,43472.17,43472.17,43472.17,contract,Unknown,GBP
+Floor Fitter (Self-Employed),MyJobQuote,"Bridgend County, Wales",Trade & Construction Jobs,44480.73,44480.73,44480.73,contract,Unknown,GBP
+Handyman (Self-Employed),MyJobQuote,"Eastleigh, Hampshire",Trade & Construction Jobs,43398.73,43398.73,43398.73,contract,Unknown,GBP
+Electrician (Self-Employed),MyJobQuote,"Farringdon, Central London",Trade & Construction Jobs,59525.48,59525.48,59525.48,contract,Unknown,GBP
+Associate HR Business Partner,MLC Partners,UK,Healthcare & Nursing Jobs,62000.0,62000.0,62000.0,permanent,Unknown,GBP
+Roadside Vehicle Mechanic,RAC,"Pirton, Worcestershire",Engineering Jobs,62000.0,61000.0,61500.0,Unknown,full_time,GBP
+Superflex Roadside Technician,RAC,"Chalvey, Slough",Engineering Jobs,62000.0,61000.0,61500.0,Unknown,full_time,GBP
+HGV Technician,Interaction - Northampton,"Huntingdon, Cambridgeshire",Trade & Construction Jobs,50000.0,50000.0,50000.0,permanent,Unknown,GBP
+Carpenter (Self-Employed),MyJobQuote,"Holbeck, Leeds",Trade & Construction Jobs,45895.59,45895.59,45895.59,contract,Unknown,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Hillhead, Glasgow City Centre",Trade & Construction Jobs,39610.07,39610.07,39610.07,contract,Unknown,GBP
+Team Leader,Hestia Housing & Support,"South East London, London",HR & Recruitment Jobs,40000.0,40000.0,40000.0,Unknown,Unknown,GBP
+Carpenter (Self-Employed),MyJobQuote,"Saltash, Cornwall",Trade & Construction Jobs,46920.34,46920.34,46920.34,contract,Unknown,GBP
+Electrician (Self-Employed),MyJobQuote,"Retford, Nottinghamshire",Trade & Construction Jobs,49867.57,49867.57,49867.57,contract,Unknown,GBP
+Welsh Teaching Assistant (Free Training Provided),Team Educate Ltd,"Cardiff County, Wales",Teaching Jobs,24700.0,28600.0,26650.0,contract,Unknown,GBP
+Installer,Hillarys Blinds,"Charlton, Andover",Sales Jobs,50000.0,50000.0,50000.0,permanent,part_time,GBP
+Decorator (Self-Employed),MyJobQuote,"Penicuik, Midlothian",Trade & Construction Jobs,43650.23,43650.23,43650.23,contract,Unknown,GBP
+Delivery Driver,Evri,"Midgham, Reading",Logistics & Warehouse Jobs,41835.78,41835.78,41835.78,Unknown,Unknown,GBP
+Mechanical Maintenance Craftsperson,Hays,"Cambridge, Cambridgeshire",Trade & Construction Jobs,40000.0,40000.0,40000.0,permanent,Unknown,GBP
+Project / Contracts Manager - Scotland,Pinnacle Furniture LTD,"Tinsley Green, Crawley",Consultancy Jobs,59923.5,59923.5,59923.5,permanent,Unknown,GBP
+Decorator (Self-Employed),MyJobQuote,"Inverness, Highland",Trade & Construction Jobs,48108.76,48108.76,48108.76,contract,Unknown,GBP
+Class 1 Day Driver,Gregory,"Springboig, Glasgow",Logistics & Warehouse Jobs,48108.76,31512.0,39810.380000000005,permanent,Unknown,GBP
+Decorator (Self-Employed),MyJobQuote,"Basingstoke, Hampshire",Trade & Construction Jobs,44760.09,44760.09,44760.09,contract,Unknown,GBP
+Service Engineer (Air Compressors),Ernest Gordon Recruitment,"Cambridge, Cambridgeshire",Engineering Jobs,40000.0,40000.0,40000.0,permanent,Unknown,GBP
+Carpenter (Self-Employed),MyJobQuote,"Hartlepool, County Durham",Trade & Construction Jobs,48120.14,48120.14,48120.14,contract,Unknown,GBP
+Multi-Skilled Maintenance Engineer - Days - Toome,HAYS Specialist Recruitment,"Antrim, County Antrim",Trade & Construction Jobs,40000.0,40000.0,40000.0,permanent,Unknown,GBP
+Decorator (Self-Employed),MyJobQuote,"Penenden Heath, Maidstone",Trade & Construction Jobs,46832.76,46832.76,46832.76,contract,Unknown,GBP
+Finance Manager,Otto James Consulting Limited,"Basford, Crewe",Accounting & Finance Jobs,50057.07,50057.07,50057.07,permanent,Unknown,GBP
+Economics Teacher,Ribbons and Reeves Limited,"North Harrow, Harrow",Teaching Jobs,55000.0,55000.0,55000.0,permanent,Unknown,GBP
+ILS Manager,Morson Edge,"East Knighton, Dorchester",Engineering Jobs,94655.05,94655.05,94655.05,contract,Unknown,GBP
+Decorator (Self-Employed),MyJobQuote,"Grays, Essex",Trade & Construction Jobs,43184.41,43184.41,43184.41,contract,Unknown,GBP
+Bathroom Fitter (Self-Employed),MyJobQuote,"The Vale of Glamorgan, Wales",Trade & Construction Jobs,47145.73,47145.73,47145.73,contract,Unknown,GBP
+Kitchen Fitter (Self-Employed),MyJobQuote,"Chelmsford, Essex",Trade & Construction Jobs,39507.91,39507.91,39507.91,contract,Unknown,GBP
+Builder (Self-Employed),MyJobQuote,"South Yorkshire, Yorkshire And The Humber",Trade & Construction Jobs,49159.34,49159.34,49159.34,contract,Unknown,GBP
+Client Manager,Blusource Professional Services Ltd,"Norwich, Norfolk",Accounting & Finance Jobs,40000.0,40000.0,40000.0,permanent,Unknown,GBP
+Decorator (Self-Employed),MyJobQuote,"The Vale of Glamorgan, Wales",Trade & Construction Jobs,44363.08,44363.08,44363.08,contract,Unknown,GBP
+Blinds and Curtains Installer,Hillarys Blinds,"New Stevenston, Motherwell",Sales Jobs,50000.0,50000.0,50000.0,permanent,part_time,GBP
+Principal Safety Case Engineer,Morson Edge,"Risley, Warrington",Engineering Jobs,55693.83,55693.83,55693.83,permanent,full_time,GBP
+Field Service Engineer - Mobile HGV Mechanic,Kautec Recruitment Ltd,"Berwick-Upon-Tweed, Northumberland",Engineering Jobs,50000.0,50000.0,50000.0,permanent,full_time,GBP
+Financial Advisor,Experis,"Manchester, Greater Manchester",Accounting & Finance Jobs,60000.0,60000.0,60000.0,permanent,full_time,GBP
+Pashto Speaking Teaching Assistant,Team Educate Ltd,"Cardiff County, Wales",Teaching Jobs,24700.0,28600.0,26650.0,contract,full_time,GBP
+Decorator (Self-Employed),MyJobQuote,"Oxfordshire, South East England",Trade & Construction Jobs,49545.75,49545.75,49545.75,contract,Unknown,GBP
+Care Manager,Right at Home - Bristol,"Bristol, South West England",Healthcare & Nursing Jobs,28000.0,28000.0,28000.0,contract,Unknown,GBP
+Paraplanner,TEMPLEGATE RECRUITMENT LIMITED,"Colchester, Essex",Accounting & Finance Jobs,35000.0,35000.0,35000.0,permanent,Unknown,GBP
+HGV2 InstallaionDriver,First Choice Staff,"Ashford, Surrey",Logistics & Warehouse Jobs,40000.0,40000.0,40000.0,permanent,Unknown,GBP
+Functional Assessor,Maven Consulting Group Ltd,"Workington, Cumbria",Healthcare & Nursing Jobs,35000.0,35000.0,35000.0,permanent,part_time,GBP
+Website Transformation Project Lead,University of Bath,"Bath, Bath & N E Somerset",IT Jobs,65000.0,65000.0,65000.0,contract,part_time,GBP
+Engineering Consultant (HVAC / Sales),Ernest Gordon Recruitment,"Swadlincote, Derbyshire",Sales Jobs,55000.0,55000.0,55000.0,permanent,Unknown,GBP
+Project Manager (Cladding),HAYS,"Liverpool, Merseyside",Trade & Construction Jobs,58528.89,58528.89,58528.89,Unknown,Unknown,GBP
+Vehicle Technician,Mr Clutch Autocentres,"Strood, Rochester",Engineering Jobs,44196.79,44196.79,44196.79,permanent,Unknown,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Crownhill, Milton Keynes",Trade & Construction Jobs,45823.25,45823.25,45823.25,contract,Unknown,GBP
+Floor Fitter (Self-Employed),MyJobQuote,"Suffolk, Eastern England",Trade & Construction Jobs,44978.66,44978.66,44978.66,contract,Unknown,GBP
+Engineering Manager - Generalist,Morson Edge,"East Knighton, Dorchester",Engineering Jobs,60045.57,60045.57,60045.57,permanent,part_time,GBP
+Bathroom Fitter (Self-Employed),MyJobQuote,"North Lanarkshire, Scotland",Trade & Construction Jobs,44187.34,44187.34,44187.34,contract,Unknown,GBP
+Kitchen Fitter (Self-Employed),MyJobQuote,"Northampton, Northamptonshire",Trade & Construction Jobs,39569.03,39569.03,39569.03,contract,Unknown,GBP
+Field Service Engineer,Briggs Equipment Ltd,"Stoke-On-Trent, Staffordshire",Engineering Jobs,35000.0,35000.0,35000.0,permanent,Unknown,GBP
+Mechanical Project Manager (No Travel),HAYS Specialist Recruitment,"Newtownabbey, County Antrim",Engineering Jobs,60000.0,60000.0,60000.0,permanent,Unknown,GBP
+Commercial Strategy Manager,DMA Recruitment,"Cannock, Staffordshire",Engineering Jobs,75000.0,75000.0,75000.0,permanent,Unknown,GBP
+Tutor,TP Tutors,"Nottingham, Nottinghamshire",Teaching Jobs,52000.0,62400.0,57200.0,Unknown,part_time,GBP
+Senior Leader,Blue Arrow,"Antrim, County Antrim",Customer Services Jobs,27393.0,27393.0,27393.0,Unknown,Unknown,GBP
+CNC Programmer/Turner,Modus Personnel Ltd,"Stoke-On-Trent, Staffordshire",Engineering Jobs,35000.0,35000.0,35000.0,permanent,full_time,GBP
+Commercial Gas Engineer,StartMonday,"South East London, London",Engineering Jobs,60000.0,60000.0,60000.0,permanent,Unknown,GBP
+Senior Technical Consultant,Intapp,"Belfast, Northern Ireland",IT Jobs,42743.54,42743.54,42743.54,Unknown,Unknown,GBP
+Floor Fitter (Self-Employed),MyJobQuote,"Hilderstone, Stone",Trade & Construction Jobs,39236.14,39236.14,39236.14,contract,Unknown,GBP
+Decorator (Self-Employed),MyJobQuote,"Cheshunt, Waltham Cross",Trade & Construction Jobs,44890.81,44890.81,44890.81,contract,Unknown,GBP
+Floor Fitter (Self-Employed),MyJobQuote,"West Midlands, UK",Maintenance Jobs,39764.57,39764.57,39764.57,contract,Unknown,GBP
+Senior Quantity Surveyor,Ernest and Florent LTD,"Bishopsgate, Central London",Trade & Construction Jobs,75000.0,75000.0,75000.0,permanent,Unknown,GBP
+Electrician (Self-Employed),MyJobQuote,"Rickmansworth, Hertfordshire",Trade & Construction Jobs,53920.68,53920.68,53920.68,contract,Unknown,GBP
+Business Manager,The London Clinic,"South East London, London",Charity & Voluntary Jobs,35000.0,35000.0,35000.0,permanent,part_time,GBP
+Class 2 HIAB Driver,Swift Recruit,"Rye, East Sussex",Logistics & Warehouse Jobs,42681.0,59841.0,51261.0,permanent,Unknown,GBP
+Head of Property and Facilities Management,Briggs Equipment,"Lisburn, Northern Ireland",Trade & Construction Jobs,80000.0,80000.0,80000.0,permanent,Unknown,GBP
+Senior Motor Vehicle Technician - Kia,Stoneacre Motor Group.,"Wallasey, Merseyside",Engineering Jobs,40000.0,40000.0,40000.0,permanent,Unknown,GBP
+Service Engineer,Verto People,"Holbeck, Leeds",Engineering Jobs,40000.0,40000.0,40000.0,permanent,Unknown,GBP
+Driving Instructor (Driving Licence Required),My Four Wheels,"Gatley, Cheadle",Teaching Jobs,40435.36,40435.36,40435.36,Unknown,full_time,GBP
+Control and Automation Engineer,Dairygold Food Ingredients  Ltd,"Swillington, Leeds",Engineering Jobs,55000.0,55000.0,55000.0,permanent,Unknown,GBP
+HGV Class 1 Driver,The Recruitment Crowd  Limited,"Bridgwater, Somerset",Logistics & Warehouse Jobs,37752.0,71240.0,54496.0,contract,part_time,GBP
+Driving Instructor (Driving Licence Required),My Four Wheels,"Little Burstead, Billericay",Teaching Jobs,47163.09,47163.09,47163.09,Unknown,full_time,GBP
+Kitchen Fitter (Self-Employed),MyJobQuote,"Cullompton, Devon",Trade & Construction Jobs,42423.05,42423.05,42423.05,contract,Unknown,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Deritend, Birmingham",Trade & Construction Jobs,48549.14,48549.14,48549.14,contract,Unknown,GBP
+Floor Fitter (Self-Employed),MyJobQuote,"Belgrave, Chester",Trade & Construction Jobs,46713.48,46713.48,46713.48,contract,Unknown,GBP
+Delivery Driver,Yodel,"Hillhead, Glasgow City Centre",Logistics & Warehouse Jobs,39393.05,39393.05,39393.05,Unknown,Unknown,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Cirencester, Gloucestershire",Trade & Construction Jobs,42380.1,42380.1,42380.1,contract,Unknown,GBP
+Tiler (Self-Employed),MyJobQuote,"West Dunbartonshire, Scotland",Trade & Construction Jobs,49744.79,49744.79,49744.79,contract,Unknown,GBP
+Floor Fitter (Self-Employed),MyJobQuote,"Barnet, Hertfordshire",Trade & Construction Jobs,47191.03,47191.03,47191.03,contract,Unknown,GBP
+Commercial Gas Engineer,Office Owls Recruitment Limited,"Enfield, London",Trade & Construction Jobs,55000.0,55000.0,55000.0,permanent,Unknown,GBP
+Teacher of A-Level English Language,Windsor Forest Colleges,"Windsor Castle, Windsor",Teaching Jobs,16000.0,16000.0,16000.0,permanent,full_time,GBP
+Carpenter (Self-Employed),MyJobQuote,"Northaw, Potters Bar",Trade & Construction Jobs,46902.53,46902.53,46902.53,contract,Unknown,GBP
+Builder (Self-Employed),MyJobQuote,"Woolston, Kingsbridge",Trade & Construction Jobs,42341.64,42341.64,42341.64,contract,Unknown,GBP
+Builder (Self-Employed),MyJobQuote,"Windsor, Windsor & Maidenhead",Trade & Construction Jobs,44242.37,44242.37,44242.37,contract,Unknown,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Sutton Coldfield, West Midlands",Trade & Construction Jobs,45314.92,45314.92,45314.92,contract,Unknown,GBP
+Early Years Practitioner - Level 2,Happy Days South West Limited,"Eastleigh, Hampshire",Teaching Jobs,24000.0,24000.0,24000.0,permanent,Unknown,GBP
+Associate Packaging Development Manager,Premier Foods,UK,"PR, Advertising & Marketing Jobs",46026.64,46026.64,46026.64,contract,Unknown,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Lewes, East Sussex",Trade & Construction Jobs,41976.21,41976.21,41976.21,contract,Unknown,GBP
+SEND Teaching Assistant,Qualiteach Education Group Ltd,"Hayes, Bromley",Teaching Jobs,187200.0,228800.0,208000.0,contract,full_time,GBP
+Plumber,Morgan Sindall,"Grantham, Lincolnshire",Trade & Construction Jobs,30000.0,30000.0,30000.0,permanent,full_time,GBP
+EC&I Lead,Emeya Recruitment Limited,"Manchester, Greater Manchester",Engineering Jobs,75000.0,75000.0,75000.0,permanent,Unknown,GBP
+Production Operative Full Training Provided,Norbrook,"Newry, Newry & Mourne",Manufacturing Jobs,36181.58,36181.58,36181.58,permanent,full_time,GBP
+Software Engineer,ENISCA,"Cookstown, Northern Ireland",Engineering Jobs,50000.0,50000.0,50000.0,Unknown,Unknown,GBP
+Estimator - Refurbishment and Social Housing,Building Careers UK Ltd,"Warrington, Cheshire",Trade & Construction Jobs,70000.0,70000.0,70000.0,permanent,Unknown,GBP
+Junior Quantity Surveyor,Ashton Recruitment,"Downpatrick, County Down",Trade & Construction Jobs,40000.0,40000.0,40000.0,permanent,full_time,GBP
+Clinical Assessor,Donard Recruitment Ltd,"Bangor, Gwynedd",Healthcare & Nursing Jobs,40000.0,40000.0,40000.0,permanent,full_time,GBP
+Decorator (Self-Employed),MyJobQuote,"Loughborough, Leicestershire",Trade & Construction Jobs,47500.59,47500.59,47500.59,contract,Unknown,GBP
+Nightshift Mechanic,Arnold Clark.,"Carmyle, Glasgow",Maintenance Jobs,41080.0,41080.0,41080.0,permanent,full_time,GBP
+Carpenter (Self-Employed),MyJobQuote,"Guildford, Surrey",Trade & Construction Jobs,50350.85,50350.85,50350.85,contract,Unknown,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Camberley, Surrey",Trade & Construction Jobs,43176.84,43176.84,43176.84,contract,Unknown,GBP
+Class 1 Driver,Pure Staff - Wales and The South - Driving,"Chepstow, Monmouthshire",Logistics & Warehouse Jobs,34320.0,45760.0,40040.0,contract,Unknown,GBP
+Senior / Lead AI Engineer,Ocho,"Belfast, Northern Ireland",IT Jobs,100000.0,100000.0,100000.0,Unknown,Unknown,GBP
+Store Manager,Priority Recruitment,"Sidemoor, Bromsgrove",Sales Jobs,30000.0,30000.0,30000.0,permanent,Unknown,GBP
+Courier - Flexible Scheduling for Work-Life Balance (Bristol),Stuart,"Bristol, South West England",Logistics & Warehouse Jobs,32490.73,32490.73,32490.73,Unknown,full_time,GBP
+Motor Vehicle Technician,JD Macadam Son  Ltd,"Snatchems, Morecambe",Logistics & Warehouse Jobs,45564.01,45564.01,45564.01,permanent,full_time,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Cullompton, Devon",Trade & Construction Jobs,41293.99,41293.99,41293.99,contract,Unknown,GBP
+Vehicle Technician,Halfords,"Brimsmore, Yeovil",Engineering Jobs,30339.0,33339.0,31839.0,Unknown,full_time,GBP
+Catering Assistant,Compass Group UK,"Dereham, Norfolk",Hospitality & Catering Jobs,27293.58,27293.58,27293.58,permanent,part_time,GBP
+Driving Instructor (Driving Licence Required),My Four Wheels,"Bushey, Hertfordshire",Teaching Jobs,45091.83,45091.83,45091.83,Unknown,full_time,GBP
+Senior Quantity Surveyor,ALDWYCH CONSULTING LTD,"North Ormesby, Middlesbrough",Trade & Construction Jobs,80000.0,80000.0,80000.0,permanent,Unknown,GBP
+Kitchen Fitter (Self-Employed),MyJobQuote,"North Lanarkshire, Scotland",Trade & Construction Jobs,46509.49,46509.49,46509.49,contract,Unknown,GBP
+Carpenter (Self-Employed),MyJobQuote,"Retford, Nottinghamshire",Trade & Construction Jobs,45606.44,45606.44,45606.44,contract,Unknown,GBP
+Kitchen Fitter (Self-Employed),MyJobQuote,"Leatherhead, Surrey",Trade & Construction Jobs,47470.07,47470.07,47470.07,contract,Unknown,GBP
+Lead Front-End Developer (React),Version 1,"Belfast, Northern Ireland",IT Jobs,60010.65,60010.65,60010.65,Unknown,Unknown,GBP
+Quantity Surveyor,Blaymires Recruitment Ltd,"Romsey, Hampshire",Trade & Construction Jobs,65000.0,65000.0,65000.0,permanent,Unknown,GBP
+Drive with Uber,Uber,"Hertford Heath, Hertford",Travel Jobs,36555.26,36555.26,36555.26,contract,part_time,GBP
+Sales Design Consultant,Sharps Fitted Furniture,"Hemel Hempstead, Hertfordshire",Sales Jobs,100000.0,100000.0,100000.0,contract,full_time,GBP
+Plumber Water Efficiency Programme,Groundwork South,"Hemel Hempstead, Hertfordshire",Engineering Jobs,28000.0,28000.0,28000.0,contract,Unknown,GBP
+Handyman (Self-Employed),MyJobQuote,"Swansea, Wales",Trade & Construction Jobs,45146.61,45146.61,45146.61,contract,Unknown,GBP
+Looking For Part-Time Jobs Near Me? Drive With Uber Instead,Uber,"Caddington, Luton",Part time Jobs,37782.61,37782.61,37782.61,contract,part_time,GBP
+Motoring Instructor (Driving Licence Required),My Four Wheels,"Willows Green, Chelmsford",Teaching Jobs,45108.22,45108.22,45108.22,Unknown,full_time,GBP
+Field Service Engineer,Orion,"Morecambe, Lancashire",Engineering Jobs,31200.0,35360.0,33280.0,permanent,Unknown,GBP
+Drive with Uber,Uber,"Chertsey, Surrey",Travel Jobs,35954.42,35954.42,35954.42,contract,part_time,GBP
+Builder (Self-Employed),MyJobQuote,"Hertford, Hertfordshire",Trade & Construction Jobs,48713.97,48713.97,48713.97,contract,Unknown,GBP
+Vehicle Technician,Mr Clutch Autocentres,"Leagrave, Luton",Engineering Jobs,40740.54,40740.54,40740.54,permanent,Unknown,GBP
+Engineering Team Leader,Pilgrims Europe,"Bromborough, Wirral",Engineering Jobs,44673.09,44673.09,44673.09,Unknown,Unknown,GBP
+Builder (Self-Employed),MyJobQuote,"Pontefract, West Yorkshire",Trade & Construction Jobs,50311.01,50311.01,50311.01,contract,Unknown,GBP
+Open Driver Account With Uber - Drive And Earn When And Where You Want,Uber,"South Mimms, Potters Bar",Travel Jobs,39724.51,39724.51,39724.51,contract,part_time,GBP
+Supervisory Finance Officer,Hays,"Nottingham, Nottinghamshire",Accounting & Finance Jobs,21144.88,21144.88,21144.88,permanent,full_time,GBP
+7.5t Driver - Home Appliance Specialist,First Call Contract Services,"Waterglade Industrial Park, West Thurrock",Logistics & Warehouse Jobs,40000.0,40000.0,40000.0,permanent,full_time,GBP
+Senior Delivery Manager,Version 1,"Belfast, Northern Ireland",IT Jobs,59247.17,59247.17,59247.17,permanent,Unknown,GBP
+Head of Building Information,Metropolitan Thames Valley,"Farringdon, Central London",Trade & Construction Jobs,90000.0,90000.0,90000.0,permanent,Unknown,GBP
+Care Home Deputy Manager,Meridian Business Support Limited,"Olney, Buckinghamshire",Healthcare & Nursing Jobs,50000.0,50000.0,50000.0,permanent,Unknown,GBP
+Senior Electrical Design Engineer - HV Substations,Vallum Associates Limited,"Bury St. Edmunds, Suffolk",Engineering Jobs,85000.0,85000.0,85000.0,permanent,Unknown,GBP
+Roadside Vehicle Technician,RAC,"Allington, Chippenham",Engineering Jobs,85000.0,61000.0,73000.0,Unknown,full_time,GBP
+Driving Instructor (Driving Licence Required),My Four Wheels,"Highfield, Keighley",Teaching Jobs,39621.37,39621.37,39621.37,Unknown,full_time,GBP
+Handyman (Self-Employed),MyJobQuote,"Sandtoft, Doncaster",Trade & Construction Jobs,51722.16,51722.16,51722.16,contract,Unknown,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Lichfield, Staffordshire",Trade & Construction Jobs,46333.38,46333.38,46333.38,contract,Unknown,GBP
+Corporate Services Director,VANRATH,"Belfast, Northern Ireland",Charity & Voluntary Jobs,65000.0,65000.0,65000.0,permanent,Unknown,GBP
+Service Engineer (Air Compressors),Ernest Gordon Recruitment,"Norwich, Norfolk",Engineering Jobs,40000.0,40000.0,40000.0,permanent,Unknown,GBP
+Mobile Mechanic,RAC,"Isle Brewers, Taunton",Engineering Jobs,40000.0,52000.0,46000.0,Unknown,full_time,GBP
+Electrician (Self-Employed),MyJobQuote,"Salisbury, Wiltshire",Trade & Construction Jobs,56908.92,56908.92,56908.92,contract,Unknown,GBP
+Driving For Cash? Sign Up To Drive With Uber And Earn Flexibly Instead,Uber,"Eynsford, Dartford",Travel Jobs,33013.59,33013.59,33013.59,contract,part_time,GBP
+MLD Teacher,Targeted Provision Ltd,"Southerham, Lewes",Teaching Jobs,58240.0,72800.0,65520.0,Unknown,part_time,GBP
+2026 Engineering Student Placement (Mechanical),Thales UK Limited,"Belfast, Northern Ireland",Engineering Jobs,53402.79,53402.79,53402.79,contract,part_time,GBP
+Senior Systems Engineer – Professional Services,BAE Systems,"Ocean Village, Southampton",Engineering Jobs,42183.81,42183.81,42183.81,Unknown,Unknown,GBP
+Electrician (Self-Employed),MyJobQuote,"Cardiff County, Wales",Trade & Construction Jobs,50154.46,50154.46,50154.46,contract,Unknown,GBP
+Painter & Decorator (Self-Employed),MyJobQuote,"Huddersfield, West Yorkshire",Trade & Construction Jobs,45451.0,45451.0,45451.0,contract,Unknown,GBP
+Electrical Estimator (Construction),Ernest Gordon Recruitment,"Dartford, Kent",Engineering Jobs,65000.0,65000.0,65000.0,permanent,Unknown,GBP
+Electrical Estimator,DCT Recruitment,"Liverpool, Merseyside",Trade & Construction Jobs,50000.0,50000.0,50000.0,permanent,Unknown,GBP
+Health Assessment Clinician,Reactive Recruitment NI,"Belfast, Northern Ireland",Healthcare & Nursing Jobs,40000.0,40000.0,40000.0,permanent,full_time,GBP
+HGV Engineer,Groomfield Recruitment,"Coalville, Leicestershire",Engineering Jobs,57949.05,57949.05,57949.05,permanent,full_time,GBP
+Learner Driver Trainer (Driving Licence Required),My Four Wheels,"Gonerby Hill Foot, Grantham",Teaching Jobs,43633.66,43633.66,43633.66,Unknown,full_time,GBP
+Bathroom Fitter (Self-Employed),MyJobQuote,"Andover, Hampshire",Trade & Construction Jobs,47960.7,47960.7,47960.7,contract,Unknown,GBP
